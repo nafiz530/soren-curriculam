@@ -40,5 +40,35 @@ The following documents should be copied into `sources/documents/` when direct a
 - SRC-002 — OECD Learning Compass concept-note series
 - SRC-006 — Bangladesh Learning Poverty Brief 2024
 - SRC-007 — Bangladesh National Education Policy 2010
+- SRC-005 — UNICEF Education Strategy 2026
 
 Until then, their official/canonical records above are the authoritative references.
+
+
+## Archive filenames to be supplied manually
+
+When the original files are available, place them exactly as follows:
+
+| Source ID | Repository path | Expected file |
+|---|---|---|
+| SRC-001 | `sources/documents/SRC-001-unesco-reimagining-our-futures-together-2021.pdf` | UNESCO 2021 full report |
+| SRC-002 | `sources/documents/SRC-002-oecd-learning-compass-2030-concept-notes.pdf` | OECD Learning Compass concept-note series / official compiled PDF if available |
+| SRC-004 | `sources/documents/SRC-004-unicef-every-child-learns-2019.pdf` | UNICEF Education Strategy 2019–2030 full report |
+| SRC-005 | `sources/documents/SRC-005-unicef-shaping-the-future-of-learning-2026.pdf` | UNICEF Education Strategy 2026 |
+| SRC-006 | `sources/documents/SRC-006-world-bank-bangladesh-learning-poverty-brief-2024.pdf` | World Bank Bangladesh Learning Poverty Brief 2024 |
+| SRC-007 | `sources/documents/SRC-007-bangladesh-national-education-policy-2010.pdf` | Bangladesh National Education Policy 2010 |
+| SRC-008 | `sources/documents/SRC-008-world-bank-global-education-policy-dashboard-2026.pdf` | Official dashboard report/export if an archival PDF is available |
+
+### Additional data archive
+
+For the quantitative Bangladesh learning-poverty evidence, also collect the official dataset:
+
+`data/phase-01/SRC-006-world-bank-learning-poverty-database-2024.xlsx`
+
+Source metadata: World Bank Learning Poverty Global Database, 2024 release.
+
+### Important
+
+Do not rename a source downloaded from an official provider into a different document and do not merge multiple source documents into one PDF. One source ID should correspond to one identifiable source artifact unless the provider itself publishes a series as separate files.
+
+If a provider publishes a source only as a webpage and no official downloadable document exists, do **not** create a PDF by printing the webpage. Record it as a web source instead.
