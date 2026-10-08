@@ -250,3 +250,73 @@ The final public structure will be decided **after the research has been develop
 The objective is not to create an education system that sounds impressive.
 
 The objective is to create one that can withstand serious questioning.
+
+
+---
+
+# Repository Research Architecture
+
+The repository separates **sources, evidence, synthesis, methods, decisions, data, and proposed design** so that generated writing cannot become the hidden source of truth.
+
+### Phase folder mapping
+
+Each roadmap phase has a corresponding research folder:
+
+- `research/01-foundation/` → Phase 1
+- `research/02-learner/` → Phase 2
+- `research/03-existing-education/` → Phase 3
+- `research/04-comparative-evidence/` → Phase 4
+- `research/05-learner-journey/` → Phase 5
+- `research/06-curriculum/` → Phase 6
+- `research/07-teaching-environment/` → Phase 7
+- `research/08-assessment/` → Phase 8
+- `research/09-teachers-technology-ai/` → Phase 9
+- `research/10-equity-governance-resources/` → Phase 10
+- `research/11-beyond-school/` → Phase 11
+- `research/12-proposed-system/` → Phase 12
+
+### Standard step package
+
+A substantial research step should normally contain:
+
+1. `NN-step-plan.md` — research questions, search strategy, inclusion/exclusion criteria, planned outputs.
+2. `NN-main.md` — reviewed synthesis; this is not allowed to silently substitute for source material.
+3. `NN-source-map.md` — sources linked to the questions and claims they inform.
+4. `NN-review-log.md` — objections, corrections, unresolved issues, and approval status.
+
+Supporting files may include:
+- evidence notes;
+- source-specific reviews;
+- literature matrices;
+- datasets;
+- tables;
+- appendices;
+- competing interpretations.
+
+### Source archive
+
+`sources/` is independent of the research prose.
+
+- `sources/documents/` — archival copies of original source documents when legally and technically possible.
+- `sources/source-register.md` — master bibliography and archival status.
+- `sources/phase-NN/` — phase-specific source index and notes.
+
+If a source cannot be archived, its canonical official record and source-specific evidence note must still be retained.
+
+### Evidence layer
+
+`evidence/phase-NN/` contains source-derived findings with provenance. Evidence notes must state what a source establishes **and what it does not establish**.
+
+### Method and decision layers
+
+- `methods/` — research methodology and evidence standards.
+- `decisions/` — scope changes, definitions, evidence rules, rejected hypotheses, and other research-level decisions.
+- `data/` — raw and processed datasets, kept separate.
+
+### Traceability rule
+
+A final proposal should be traceable backward:
+
+**Proposed decision → design principle → interpretation → evidence → original source**
+
+This traceability is a core research requirement, not optional documentation.
