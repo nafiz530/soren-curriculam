@@ -18,7 +18,6 @@
 | RW-054 | 09-10-2026, 04:47:51 | Research Worklog/phase-01/step-03/worklog.md | Created this detailed Step 3 worklog. |
 | RW-055 | 09-10-2026, 04:48:03 | sources/source-register.md | Updated the master register to document Step 3-specific source records. |
 | RW-056 | 09-10-2026, 04:48:05 | research/00-research-roadmap.md | Marked Step 3 in progress while leaving author approval pending. |
-
 | RW-057 | 09-10-2026, 05:09:00 | research/phase-01/step-03/main.md | Expanded the chapter with credential functions, Bangladesh policy history, and cross-party continuity principles. |
 | RW-058 | 09-10-2026, 05:09:02 | research/phase-01/step-03/step-plan.md | Added research questions on credentials, political continuity, and curriculum chronology. |
 | RW-059 | 09-10-2026, 05:09:04 | research/phase-01/step-03/source-map.md | Mapped Dore, Biesta, Spence, NCTB records, and reform-status uncertainty. |
