@@ -21,6 +21,11 @@
 | SRC-008 | World Bank, *Global Education Policy Dashboard* | Measurement framework / report | 2026 | Collected | Evidence-informed system conditions and policy bottlenecks |
 | SRC-010 | Stanford Encyclopedia of Philosophy, “Philosophy of Education” | Scholarly reference article | Current edition | Referenced | Nature and aims of education; philosophical distinctions and competing purposes |
 | SRC-011 | UNESCO Institute for Statistics, *International Standard Classification of Education (ISCED 2011)* | International statistical classification | 2012 | Referenced | Operational definitions of education programmes and learning; international comparability |
+| SRC-012 | Ronald Dore, *The Diploma Disease: Education, Qualification and Development* | Scholarly monograph | 1976 | Referenced | Credential competition, examination pressure, qualification-seeking, and South Asian comparative context |
+| SRC-013 | Gert Biesta, “Risking Ourselves in Education: Qualification, Socialization, and Subjectification Revisited” | Peer-reviewed journal article | 2020 | Referenced | Three domains of educational purpose and their tensions |
+| SRC-014 | Michael Spence, “Job Market Signaling” | Peer-reviewed journal article | 1973 | Referenced | Education and credentials as signals under labor-market uncertainty |
+| SRC-015 | National Curriculum and Textbook Board (NCTB), official curriculum and assessment pages | Official documents / web pages | 2025–2026 | Referenced | Officially published revised curriculum versions, textbooks, and assessment guidance |
+| SRC-016 | *The Daily Star* (18 Dec 2024) and *Views Bangladesh* (22 Jan 2025), reports on proposed education policy/commission | News reports | 2024–2025 | Referenced | Conflicting public reporting on the proposed policy change and commission; requires primary-document confirmation |
 
 ## Initial source-selection observation
 
@@ -39,7 +44,7 @@ The following original source files are currently present in the repository:
 
 The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL.
 
-Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. These records do not represent new source IDs or duplicate original source artifacts.
+Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. Step 3 adds SRC-012 through SRC-016 as scholarly and Bangladesh curriculum/reform sources. These records do not represent duplicate original source artifacts.
 
 ## Additional data archive
 
