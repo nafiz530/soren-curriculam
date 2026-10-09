@@ -40,8 +40,8 @@ Define the central question, secondary questions, objectives, boundaries, termin
 ## 2. What Is Education? — APPROVED
 Examine education from philosophical, psychological, social, economic, cultural, and institutional perspectives.
 
-## 3. What Is Education For?
-Investigate the competing purposes of education: knowledge, personal development, employment, citizenship, social development, economic development, and lifelong learning.
+## 3. What Is Education For? — IN PROGRESS (DRAFT; REVIEW PENDING)
+Investigate the competing purposes of education: knowledge, personal development, employment, citizenship, social development, economic development, culture, equity, well-being, and lifelong learning. The current draft maps purposes and tensions but does not establish a final hierarchy or approve a system design.
 
 ## 4. Research Methodology & Evidence Standards
 Define how sources will be selected, evaluated, compared, cited, interpreted, and challenged. Establish standards for distinguishing evidence, interpretation, proposal, and speculation.
@@ -196,7 +196,6 @@ The final proposal should clearly distinguish:
 
 No proposal should be presented as established fact merely because it appears in the final system.
 
-
 ## Repository path convention
 
-Each research step has a dedicated directory: `research/phase-NN/step-NN/`. Typical files are `step-plan.md`, `main.md`, `source-map.md`, and `review-log.md`. Step-specific source records belong under `sources/phase-NN/step-NN/`; original documents remain in `sources/documents/`, and the master bibliography remains `sources/source-register.md`. The repository-wide change ledger is `Research Worklog/Main.md`, with detailed logs at `Research Worklog/phase-NN/step-NN/worklog.md`.
+Each research step has a dedicated directory: research/phase-NN/step-NN/. Typical files are step-plan.md, main.md, source-map.md, and review-log.md. Step-specific source records belong under sources/phase-NN/step-NN/; original documents remain in sources/documents/, and the master bibliography remains sources/source-register.md. The repository-wide change ledger is Research Worklog/Main.md, with detailed logs at Research Worklog/phase-NN/step-NN/worklog.md.
