@@ -17,6 +17,8 @@
 
 ## Search coverage
 
+Dedicated search metadata, exact queries, screening notes, and remaining coverage gaps are recorded in [the search log](../../../../data/searches/2026-10-09/credential-pressure-pilot.md).
+
 A focused English-language discovery search was conducted on 2026-10-09 for Bangladesh credential competition, SSC examination washback, tutoring inequality, Spence's primary signaling paper, Dore's diploma disease, and the ADB tutoring intervention. This was not an exhaustive search and does not establish that all relevant studies were found.
 
 ## Search queries recorded
