@@ -37,7 +37,7 @@ The final system must emerge from the research rather than being predetermined.
 ## 1. Research Question, Objectives & Scope — APPROVED
 Define the central question, secondary questions, objectives, boundaries, terminology, intended audience, and expected outputs.
 
-## 2. What Is Education?
+## 2. What Is Education? — APPROVED
 Examine education from philosophical, psychological, social, economic, cultural, and institutional perspectives.
 
 ## 3. What Is Education For?
