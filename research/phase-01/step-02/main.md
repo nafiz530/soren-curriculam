@@ -1,10 +1,10 @@
 # Step 2 — What Is Education?
 
 **Author:** Md. Nafiz  
-**Status:** Initial research draft — review pending  
+**Status:** Approved (09-10-2026)  
 **Official research title:** *Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?*
 
-> This chapter begins the investigation; it does not establish a final definition of education. I will revise it as the source base grows and competing interpretations are examined.
+ > This chapter records the current reviewed position, not a claim that all debates about education are settled. I will revise it if later evidence or competing interpretations justify changes.
 
 ## 1. Why the definition matters
 
