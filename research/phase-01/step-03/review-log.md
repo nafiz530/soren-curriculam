@@ -1,7 +1,7 @@
 # Step 3 Review Log — What Is Education For?
 
 **Author:** Md. Nafiz  
-**Status:** Revised draft — review pending
+**Status:** Approved (09-10-2026)
 
 ## Review objective
 
@@ -43,7 +43,7 @@ The National Education Policy 2010 is treated as the latest fully adopted nation
 - The draft does not claim that every curriculum change was partisan or that historical content must never be revised.
 - No causal conclusion is drawn from the timing of a political transition alone.
 - The evidence base remains incomplete on coaching, shadow education, SSC/HSC washback, credential competition, and pathway inequalities.
-- The chapter remains **review pending**. No approval is recorded by this revision.
+- Step 3 is approved on 09-10-2026. The listed limitations and research gaps remain open for later investigation; they do not invalidate this stage's approval.
 
 ## Questions for author review
 
@@ -58,4 +58,4 @@ The National Education Policy 2010 is treated as the latest fully adopted nation
 
 ## Approval record
 
-**No approval recorded.** I will mark this step approved only after I review the revised draft and explicitly say that Step 3 is approved. Approval will apply to the reviewed version and will not prevent later evidence-led revision.
+**Approved by Md. Nafiz on 09-10-2026.** I reviewed the revised draft and approved Step 3. Approval applies to the version reviewed at this point; it does not close the documented evidence gaps or prevent transparent, evidence-led corrections in later work.
