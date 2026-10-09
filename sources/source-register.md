@@ -44,6 +44,11 @@
 | SRC-032 | ROBIS, Risk of Bias in Systematic Reviews | Review appraisal tool | Current | Referenced | Risk-of-bias appraisal for systematic reviews |
 | SRC-033 | Shea et al., AMSTAR 2 | Peer-reviewed review appraisal tool | 2017 | Referenced | Appraisal of healthcare intervention reviews; limited transfer to education |
 | SRC-034 | Koretz, *Measuring Up: What Educational Testing Really Tells Us* | Scholarly book | 2008 | Referenced | Limits of educational test-score interpretation and high-stakes use |
+| SRC-035 | Rahman et al., “Washback of assessment on English teaching-learning practice at secondary schools” | Peer-reviewed empirical article | 2021 | Referenced | Qualitative evidence on SSC English washback in 12 sampled schools |
+| SRC-036 | Ali & Hamid, “Teaching English to the Test” | Peer-reviewed empirical article | 2020 | Referenced | Teacher accounts and wider context shaping negative washback in Bangladesh |
+| SRC-037 | Mahmud, “Family Socioeconomic Determinants and Students’ Demand for Private Supplementary Tutoring in English” | Peer-reviewed empirical article | 2020/2021 | Referenced | Historical urban/rural English tutoring patterns; socioeconomic correlates |
+| SRC-038 | Islam, Hoque & Hoque, “Inequalities in Private Tutoring of English” | Peer-reviewed qualitative study | 2021 | Referenced | Higher-secondary students’ experiences of tutoring access and inequality |
+| SRC-039 | Asian Development Bank, *Education without Formal Schooling through Tablets and Tutors* | Research report / randomized trial | 2024 | Referenced | Counterevidence on a combined tablet-and-tutoring intervention for out-of-school children |
 
 ## Initial source-selection observation
 
@@ -62,7 +67,7 @@ The following original source files are currently present in the repository:
 
 The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL.
 
-Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. Step 3 adds SRC-012 through SRC-019 as scholarly and Bangladesh curriculum/reform sources. Step 4 adds SRC-020 through SRC-034 as methodology, evaluation, appraisal, transferability, and assessment sources. These records do not represent duplicate original source artifacts.
+Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. Step 3 adds SRC-012 through SRC-019 as scholarly and Bangladesh curriculum/reform sources. Step 4 adds SRC-020 through SRC-034 as methodology, evaluation, appraisal, transferability, and assessment sources. The credential-pressure methodology pilot adds SRC-035 through SRC-039 as Bangladesh washback, tutoring, inequality, and intervention evidence. These records do not represent duplicate original source artifacts.
 
 ## Additional data archive
 
