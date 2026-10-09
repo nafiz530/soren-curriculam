@@ -19,39 +19,33 @@
 | SRC-006 | World Bank, *Bangladesh Learning Poverty Brief* | Country evidence brief | 2024 | Collected | Bangladesh learning outcomes and system context |
 | SRC-007 | Bangladesh Ministry of Education, *National Education Policy 2010* | National policy | 2010 | Collected | Bangladesh's stated aims, principles and system goals |
 | SRC-008 | World Bank, *Global Education Policy Dashboard* | Measurement framework / report | 2026 | Collected | Evidence-informed system conditions and policy bottlenecks |
+| SRC-010 | Stanford Encyclopedia of Philosophy, “Philosophy of Education” | Scholarly reference article | Current edition | Referenced | Nature and aims of education; philosophical distinctions and competing purposes |
+| SRC-011 | UNESCO Institute for Statistics, *International Standard Classification of Education (ISCED 2011)* | International statistical classification | 2012 | Referenced | Operational definitions of education programmes and learning; international comparability |
 
 ## Initial source-selection observation
 
-The first source set deliberately mixes:
-- international normative work (UNESCO);
-- future-oriented frameworks (OECD);
-- child-focused system strategy (UNICEF);
-- country-level evidence (World Bank);
-- Bangladesh's own policy commitments (Ministry of Education);
-- system measurement infrastructure (World Bank).
-
-This mix helps prevent Step 1 from being defined by only one institution's philosophy. It does not, by itself, guarantee that the source base is balanced; I will actively seek critical scholarship and counterevidence.
+The source base mixes international normative work, future-oriented frameworks, child-focused system strategy, country-level evidence, Bangladesh policy, system measurement, scholarly philosophy, and international statistical classification. This variety helps frame the questions, but it does not by itself guarantee a balanced evidence base. Critical scholarship and counterevidence must still be actively sought.
 
 ## Archival status
 
 The following original source files are currently present in the repository:
 
-- sources/documents/SRC-001-unesco-reimagining-our-futures-together-2021.pdf
-- sources/documents/SRC-004-unicef-every-child-learns-2019.pdf
-- sources/documents/SRC-005-unicef-shaping-the-future-of-learning-2026.pdf
-- sources/documents/SRC-006-world-bank-bangladesh-learning-poverty-brief-2024.pdf
-- sources/documents/SRC-007-bangladesh-national-education-policy-2010.pdf
-- sources/documents/SRC-008-world-bank-global-education-policy-dashboard-2026.pdf
+- `sources/documents/SRC-001-unesco-reimagining-our-futures-together-2021.pdf`
+- `sources/documents/SRC-004-unicef-every-child-learns-2019.pdf`
+- `sources/documents/SRC-005-unicef-shaping-the-future-of-learning-2026.pdf`
+- `sources/documents/SRC-006-world-bank-bangladesh-learning-poverty-brief-2024.pdf`
+- `sources/documents/SRC-007-bangladesh-national-education-policy-2010.pdf`
+- `sources/documents/SRC-008-world-bank-global-education-policy-dashboard-2026.pdf`
 
-The OECD concept-note PDF for SRC-002 has not yet been archived.
+The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL.
 
 ## Additional data archive
 
 The World Bank Learning Poverty Global Database is present at:
 
-data/phase-01/SRC-006-world-bank-learning-poverty-database-2024.xls
+`data/phase-01/SRC-006-world-bank-learning-poverty-database-2024.xls`
 
-The repository file is an .xls workbook, not .xlsx. Preserve the actual format unless the file is deliberately converted and the conversion is documented.
+The repository file is an `.xls` workbook, not `.xlsx`. Preserve the actual format unless the file is deliberately converted and the conversion is documented.
 
 ## Archival rules
 
