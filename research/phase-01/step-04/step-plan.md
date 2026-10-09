@@ -30,6 +30,8 @@ This step establishes the method for the project. It does not claim that the pro
 11. What ethical requirements apply if the project later collects information from students, teachers, families, or other people, especially minors?
 12. What can a student-led desk-research project reasonably claim, and what must remain uncertain or deferred?
 
+These are questions the protocol must answer during application. They are not all separate approval blockers: the approved manuscript and operational protocol specify how they will be handled, while topic-specific details remain to be completed when each research question is investigated.
+
 ## Proposed research design
 
 Use a **structured, transparent, critical evidence synthesis** combining:
