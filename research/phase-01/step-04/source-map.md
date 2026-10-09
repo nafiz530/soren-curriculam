@@ -17,7 +17,9 @@
 | SRC-030–033 — CASP, MMAT, ROBIS, AMSTAR 2 | How can different study designs and existing reviews be appraised? | Structured appraisal prompts suited to particular designs/review types. | A single interchangeable quality score for all sources. |
 | SRC-034 — Daniel Koretz, *Measuring Up* | How should educational test-score claims be interpreted? | Cautions about what educational tests and scores can and cannot show. | Proof that examinations are inherently harmful or useless. |
 
-The added source records SRC-024–034 cover external validity and transfer, realist synthesis/evaluation, best-evidence and narrative synthesis, systematic-review design, study appraisal, risk of bias in reviews, and educational measurement. Their individual records specify intended use and scope limits.\n\n## Claim-to-source traceability
+The added source records SRC-024–034 cover external validity and transfer, realist synthesis/evaluation, best-evidence and narrative synthesis, systematic-review design, study appraisal, risk of bias in reviews, and educational measurement. Their individual records specify intended use and scope limits.
+
+## Claim-to-source traceability
 
 | Manuscript claim or protocol choice | Source basis | Claim type | Confidence / limitation |
 |---|---|---|---|
@@ -42,13 +44,13 @@ The protocol now requires operational definitions for the two central title cons
 - The protocol is written for a student-led research project with limited time and access. Searches may not cover all databases, languages, unpublished work, or paywalled literature.
 - The protocol itself must be tested against actual use. If it creates excessive paperwork without improving traceability, simplify it transparently rather than abandoning the underlying safeguards.
 
-## Open methodological questions
+## Remaining application tasks
 
-1. Which Bangla-language repositories and local research indexes should be added?
-2. What search documentation is proportionate for a focused research question versus a broad topic?
-3. Which claims would justify a systematic review, and what resources would that require?
-4. What local permissions and safeguards are required before any primary data collection?
-5. How should the project record source corrections, retractions, and changed official webpages over time?
+1. Define the exact constructs and measures for each later question before synthesis.
+2. Identify relevant local repositories and Bangla/English search terms for each topic.
+3. Assess whether the formal systematic-review trigger is met for each major causal/comparative question.
+4. Verify local permissions before any primary data collection.
+5. Record source corrections, retractions, and changed official webpages over time.
 
 ## Traceability rule
 
