@@ -25,7 +25,10 @@
 | SRC-013 | Gert Biesta, “Risking Ourselves in Education: Qualification, Socialization, and Subjectification Revisited” | Peer-reviewed journal article | 2020 | Referenced | Three domains of educational purpose and their tensions |
 | SRC-014 | Michael Spence, “Job Market Signaling” | Peer-reviewed journal article | 1973 | Referenced | Education and credentials as signals under labor-market uncertainty |
 | SRC-015 | National Curriculum and Textbook Board (NCTB), official curriculum and assessment pages | Official documents / web pages | 2025–2026 | Referenced | Officially published revised curriculum versions, textbooks, and assessment guidance |
-| SRC-016 | *The Daily Star* (18 Dec 2024) and *Views Bangladesh* (22 Jan 2025), reports on proposed education policy/commission | News reports | 2024–2025 | Referenced | Conflicting public reporting on the proposed policy change and commission; requires primary-document confirmation |
+| SRC-016 | *The Daily Star*, *Views Bangladesh*, and *Prothom Alo*, reports on proposed broad education commission | News reports | 2024–2025 | Referenced | Dated reporting on the proposed sector-wide commission and later reporting that it was not constituted; specialized committees are separate |
+| SRC-017 | Ministry of Education, *Report of the Review Committee Established to Formulate a Vision for the Transformation of the Secondary and Higher Secondary Education System* | Official review committee report | 2026 | Referenced | Secondary/higher-secondary reform recommendations and governing commitments |
+| SRC-018 | Primary and Non-Formal Education Reform Advisory Committee report, as reported by BSS | Official committee/report coverage | 2025 | Referenced | Recommendations for primary and non-formal education reform |
+| SRC-019 | Bangladesh Sangbad Sangstha (BSS), reporting on planned curriculum overhaul for the 2028 academic session | Current government statement / news report | 2026 | Referenced | Dated public plan for curriculum redesign; not proof of formal adoption or implementation |
 
 ## Initial source-selection observation
 
@@ -44,7 +47,7 @@ The following original source files are currently present in the repository:
 
 The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL.
 
-Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. Step 3 adds SRC-012 through SRC-016 as scholarly and Bangladesh curriculum/reform sources. These records do not represent duplicate original source artifacts.
+Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. Step 3 adds SRC-012 through SRC-019 as scholarly and Bangladesh curriculum/reform sources. These records do not represent duplicate original source artifacts.
 
 ## Additional data archive
 
