@@ -179,3 +179,6 @@
 | RW-168 | 09-10-2026, 16:11:42 UTC | data/searches/2026-10-09/credential-pressure-pilot.md | Record credentialism and Bangladesh study queries |
 | RW-169 | 09-10-2026, 16:12:02 UTC | research/phase-01/step-04/application-01-credential-pressure/main.md | Correct synthesis language |
 | RW-170 | 09-10-2026, 16:12:12 UTC | Research Worklog/phase-01/step-04/worklog.md | Log credentialism source and synthesis revisions |
+
+| RW-171 | 09-10-2026, 16:12:33 UTC | sources/phase-01/step-04/SRC-039.md | Complete ADB authorship, publication date, and DOI metadata |
+| RW-172 | 09-10-2026, 16:12:42 UTC | Research Worklog/phase-01/step-04/worklog.md | Log ADB source metadata correction |
