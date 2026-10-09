@@ -16,4 +16,4 @@
 | RW-021 | 09-10-2026, 04:34:56 | `research/01-foundation/01-main.md` | Deleted the old manuscript path after migration; the revised manuscript is in the new step folder. |
 | RW-022 | 09-10-2026, 04:34:59 | `research/01-foundation/01-source-map.md` | Deleted the old source-map path after migration. |
 | RW-023 | 09-10-2026, 04:35:01 | `research/01-foundation/01-review-log.md` | Deleted the old review-log path after migration. |
-| RW-034 | PENDING | `Research Worklog/phase-01/step-01/worklog.md` | Added exact UTC record-time columns to the step-specific worklog. |
+| RW-034 | 09-10-2026, 04:43:05 | `Research Worklog/phase-01/step-01/worklog.md` | Added exact UTC record-time columns to the step-specific worklog. |
