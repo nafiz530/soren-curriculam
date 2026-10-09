@@ -37,7 +37,7 @@ The following original source files are currently present in the repository:
 - `sources/documents/SRC-007-bangladesh-national-education-policy-2010.pdf`
 - `sources/documents/SRC-008-world-bank-global-education-policy-dashboard-2026.pdf`
 
-The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL.
+The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL. Their step-specific records are stored in `sources/phase-01/step-02/`.
 
 ## Additional data archive
 
