@@ -2,7 +2,7 @@
 
 **Author:** Md. Nafiz  
 **Phase:** 1 — Research Foundation  
-**Status:** Draft — research plan  
+**Status:** Approved as the working protocol (2026-10-09)  
 **Official research title:** *Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?*
 
 ## Purpose
@@ -165,6 +165,14 @@ These commitments are open to review and refinement. They are not a claim that b
 - `review-log.md` — objections, revisions, open questions, and approval record.
 - Step-specific source records under `sources/phase-01/step-04/`.
 
+## Required operational artifacts
+
+Before title-level synthesis, define and record observable working constructs for both “future preparation” and “examination preparation,” then assess each source's construct match. Use the repository's evidence-table and search-log templates.
+
+For every high-impact conclusion, log the strongest opposing case, supporting evidence, assumptions, missing evidence, and what would change the conclusion. Record funding/commissioning, language, publication risks, and trace-to-origin checks for load-bearing statistics. Full traceability is mandatory for title-level synthesis, major causal/comparative claims, national policy-status claims, major statistics, and major recommendations; background claims receive proportionate documentation.
+
+Use the established-evidence threshold: two independent lines of evidence or one high-quality closely matched study, plus a documented search for credible counterevidence. Major recommendations require the complete traceability chain. Normative disagreements must state value premises, counterarguments, the researcher's weights, and the Step 3 evaluation criteria.
+
 ## Approval gate
 
-Step 4 is ready for review when the protocol is practical for a student-led project, matches methods to question types, makes source appraisal and uncertainty explicit, includes ethical safeguards, and avoids claiming systematic-review completeness without evidence. It remains pending until I explicitly approve it.
+Step 4 is ready for review when the protocol is practical for a student-led project, matches methods to question types, makes source appraisal and uncertainty explicit, includes ethical safeguards, and avoids claiming systematic-review completeness without evidence. It remains approved as the working standard, with the review amendments incorporated. Approval is not evidence that later applications have already met the standard.
