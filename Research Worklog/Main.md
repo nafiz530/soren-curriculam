@@ -75,3 +75,14 @@
 | RW-065 | 09-10-2026, 05:09:27 | sources/phase-01/step-03/SRC-015.md | Record official NCTB curriculum revision sources |
 | RW-066 | 09-10-2026, 05:09:30 | sources/phase-01/step-03/SRC-016.md | Record conflicting education commission reports |
 | RW-067 | 09-10-2026, 05:09:50 | Research Worklog/phase-01/step-03/worklog.md | Log Step 3 review-driven revisions |
+
+| RW-068 | 09-10-2026, 05:10:24 | research/phase-01/step-03/main.md | Clarify reform-body history and current plans |
+| RW-069 | 09-10-2026, 05:10:26 | research/phase-01/step-03/step-plan.md | Distinguish broad commissions from specialized committees |
+| RW-070 | 09-10-2026, 05:10:28 | research/phase-01/step-03/source-map.md | Map official education reform committee evidence |
+| RW-071 | 09-10-2026, 05:10:30 | research/phase-01/step-03/review-log.md | Refine Step 3 factual note on reform bodies |
+| RW-072 | 09-10-2026, 05:10:32 | sources/source-register.md | Index official education reform committee reports |
+| RW-073 | 09-10-2026, 05:10:35 | sources/phase-01/step-03/SRC-016.md | Clarify broad commission versus committees |
+| RW-074 | 09-10-2026, 05:10:41 | sources/phase-01/step-03/SRC-017.md | Add official secondary education review committee report |
+| RW-075 | 09-10-2026, 05:10:43 | sources/phase-01/step-03/SRC-018.md | Record primary education reform advisory committee |
+| RW-076 | 09-10-2026, 05:10:45 | sources/phase-01/step-03/SRC-019.md | Record current government's curriculum reform plan |
+| RW-077 | 09-10-2026, 05:10:58 | Research Worklog/phase-01/step-03/worklog.md | Log verified Bangladesh reform committee evidence |
