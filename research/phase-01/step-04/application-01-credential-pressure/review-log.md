@@ -21,7 +21,7 @@
 
 **Strongest case against my provisional interpretation:** examination-oriented practice in English may be a response to curriculum–test mismatch, teacher preparation constraints, limited resources, or institutional accountability—not necessarily evidence that examinations themselves are the root cause. Exams may provide transparent certification and a common selection mechanism where alternative assessments are costly or vulnerable to favoritism. Tutoring may improve learning for some students, and the ADB trial supplies evidence of benefit for a distinct intervention and population.
 
-**Best evidence currently supporting concern:** Rahman et al. report negative SSC English washback in 12 sampled schools; Ali and Hamid argue that negative washback is embedded in wider socio-political and accountability conditions; qualitative tutoring research reports perceived inequality and financial barriers.
+**Best evidence currently supporting concern:** Al Amin and Greenwood's 2018 mixed-methods study combines a survey of 216 secondary English teachers with multi-stakeholder qualitative accounts, observations, and document analysis; Rahman et al. report negative SSC English washback in 12 sampled schools; Ali and Hamid argue that negative washback is embedded in wider socio-political and accountability conditions; qualitative tutoring research reports perceived inequality and financial barriers.
 
 **Assumptions to challenge:** that SSC English studies generalize to all subjects; that reported pressure reflects actual behavior consistently; that credentials are used primarily for selection/signaling; that tutoring costs cause unequal outcomes rather than correlate with other advantages; and that lowering stakes would improve future preparation.
 
@@ -33,4 +33,4 @@
 
 ## Required next review
 
-Before approval, complete full-text appraisal for SRC-035–039; verify statistics; search Bangla and additional Bangladesh sources; add credential-competition scholarship required by Step 3; verify primary policy and curriculum records where used; and preserve unresolved disagreements about fairness, certification, selection, and educational purpose.
+Before approval, complete full-text appraisal for SRC-035–040; verify statistics; search Bangla and additional Bangladesh sources; read Hirsch and Collins in depth and compare their distinct mechanisms with Dore and Spence; verify primary policy and curriculum records where used; and preserve unresolved disagreements about fairness, certification, selection, and educational purpose.
