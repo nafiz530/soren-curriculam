@@ -43,8 +43,8 @@ Examine education from philosophical, psychological, social, economic, cultural,
 ## 3. What Is Education For? — APPROVED (2026-10-09)
 Investigate the competing purposes of education: knowledge, personal development, employment, citizenship, social development, economic development, culture, equity, well-being, and lifelong learning. Approved as a conceptual foundation; evidence gaps and open questions remain documented for later research. No final hierarchy or system design has been approved.
 
-## 4. Research Methodology & Evidence Standards
-Define how sources will be selected, evaluated, compared, cited, interpreted, and challenged. Establish standards for distinguishing evidence, interpretation, proposal, and speculation.
+## 4. Research Methodology & Evidence Standards — IN PROGRESS (DRAFT; REVIEW PENDING)
+Define how sources will be selected, evaluated, compared, cited, interpreted, and challenged. Establish standards for distinguishing evidence, interpretation, proposal, and speculation. A draft protocol and source map are available for review; no approval is recorded yet.
 
 # Phase 2 — Understanding the Learner
 
