@@ -1,17 +1,11 @@
 # Phase 1 Data
 
-This directory is reserved for datasets used in Step 1.
+This directory stores datasets used in Step 1.
 
-Raw or downloaded datasets should remain separate from processed tables.
+Keep original downloaded datasets separate from any cleaned, transformed, or derived copies. Record the source, release/version, download date, and any processing steps before using a dataset in analysis.
 
-Each dataset should have:
-- source ID;
-- original publisher;
-- dataset/version date;
-- download/access date;
-- original filename;
-- license/usage conditions;
-- processing notes;
-- checksum where practical.
+## Archived dataset
 
-Do not overwrite raw data with transformed data.
+- SRC-006-world-bank-learning-poverty-database-2024.xls — World Bank Learning Poverty Global Database, 2024 release.
+
+The archived workbook is in legacy Excel .xls format. Do not label it as .xlsx unless it is actually converted; if converted, retain the original and document the conversion.
