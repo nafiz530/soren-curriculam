@@ -31,7 +31,7 @@ Ali and Hamid (2020; SRC-036) interviewed 12 secondary teachers and argue that n
 
 Al Amin and Greenwood (2018; SRC-040) provide a broader mixed-methods investigation of Bangladesh secondary English education. Their study began with a survey of 216 English teachers and included qualitative interviews with students, teachers, teacher trainers, principals, parents, and other professionals, alongside observation and document analysis. The authors report pressure from parents, students, and school leaders to secure high grades, and accounts of teachers omitting content they considered less likely to be tested. They interpret the exam system as sustained by social expectations, school/teacher reputation, coaching businesses, and the high stakes attached to progression and future opportunities.
 
-**Interpretation:** the two studies are compatible with a multi-mechanism explanation. They do not establish the relative causal weight of each mechanism, and their qualitative designs should not be presented as national causal estimates.
+**Interpretation:** these studies are compatible with a multi-mechanism explanation. They do not establish the relative causal weight of each mechanism; the mixed-methods study adds breadth but does not identify national causal effects.
 
 ### Finding B — Exam pressure and credential incentives are plausible, distinct mechanisms
 
