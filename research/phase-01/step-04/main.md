@@ -175,6 +175,17 @@ I will use these rules throughout the research unless later evidence or a docume
 
 These commitments make the research more accountable; they do not guarantee neutrality, exhaustiveness, or correctness.
 
+1. Match evidence and method to the exact claim and operational construct.
+2. Apply the claim-relative “established evidence” threshold before using that label for a load-bearing claim.
+3. Record funders, commissioners, language, publication risks, and source independence.
+4. Trace load-bearing statistics to their origin or mark them unverified at source.
+5. Complete a logged devil's-advocate pass for every high-impact conclusion.
+6. Keep dated search records with exact queries, filters, hit counts, and exports where possible.
+7. Use full traceability for title-level synthesis, major causal/comparative claims, policy-status claims, statistics, and major recommendations.
+8. Make major decisions traceable to evidence, counterevidence, explicit values, expected outcomes, and failure modes.
+9. Do not claim systematic-review completeness unless the actual process warrants it.
+10. Protect ethics, privacy, dignity, and participant safety if the project later involves people.
+
 ### 10.1 When a formal systematic review is required
 
 I will consider a formal systematic review when all three conditions apply: the question is causal or comparative; a substantial body of directly relevant studies plausibly exists; and the answer would drive a major design decision. The effect of high-stakes examinations on teaching practice in South Asia is a candidate. Conceptual and policy-document history questions do not automatically require a systematic review. If access or resources make one infeasible, I will document the limitation and conduct a structured synthesis without overstating completeness.
