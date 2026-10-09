@@ -17,7 +17,7 @@ A key limitation is construct mismatch. Most Bangladesh-specific sources located
 3. **Selection and ranking:** results may allocate scarce seats, scholarships, or other opportunities. A test used for ranking can create pressure beyond its value as a learning measure.
 4. **Signaling:** where institutions or employers cannot directly observe capability, a credential may convey information. Spence's model explains a possible mechanism; it does not prove that every qualification is informative or that the mechanism dominates in Bangladesh.
 
-Dore's credential-competition argument asks whether, when qualifications are used to screen candidates for scarce opportunities, people compete for credentials even when the extra credential does not correspond to an equivalent increase in relevant capability. This is a hypothesis to test locally, not a conclusion to import unchanged from comparative work.
+Dore's credential-competition argument asks whether, when qualifications are used to screen candidates for scarce opportunities, people compete for credentials even when the extra credential does not correspond to an equivalent increase in relevant capability. Collins's credential-society thesis examines how credential requirements can regulate occupational access and status; Hirsch's positional-goods framework explains why relative advantage can remain scarce even as educational participation expands. These are related but distinct explanations: signaling concerns information under uncertainty; credentialism concerns how qualifications regulate access and stratification; positional competition concerns rewards that depend on relative rank. All three are hypotheses to test locally, not conclusions to import unchanged from comparative work.
 
 ## 3. Provisional findings from the first evidence pass
 
@@ -29,11 +29,13 @@ Rahman et al. (2021; SRC-035) report a qualitative study across 12 secondary sch
 
 Ali and Hamid (2020; SRC-036) interviewed 12 secondary teachers and argue that negative washback is embedded in broader social, economic, political, and accountability conditions, rather than being caused by test design alone.
 
+Al Amin and Greenwood (2018; SRC-040) provide a broader mixed-methods investigation of Bangladesh secondary English education. Their study began with a survey of 216 English teachers and included qualitative interviews with students, teachers, teacher trainers, principals, parents, and other professionals, alongside observation and document analysis. The authors report pressure from parents, students, and school leaders to secure high grades, and accounts of teachers omitting content they considered less likely to be tested. They interpret the exam system as sustained by social expectations, school/teacher reputation, coaching businesses, and the high stakes attached to progression and future opportunities.
+
 **Interpretation:** the two studies are compatible with a multi-mechanism explanation. They do not establish the relative causal weight of each mechanism, and their qualitative designs should not be presented as national causal estimates.
 
 ### Finding B — Exam pressure and credential incentives are plausible, distinct mechanisms
 
-Spence (1973; SRC-014) models signaling under labor-market information asymmetry. Dore's The Diploma Disease (SRC-012) examines qualification competition and the use of educational achievement as a screening device. These sources help formulate mechanisms and predictions.
+Spence (1973; SRC-014) models signaling under labor-market information asymmetry. Dore's The Diploma Disease (SRC-012) examines qualification competition and the use of educational achievement as a screening device. Collins (SRC-041) examines credentialism and occupational stratification; Hirsch (SRC-042) explains positional competition where relative access to scarce opportunities matters. These sources help formulate different mechanisms and predictions.
 
 **Interpretation:** testable questions include whether employers and institutions rely on credentials because they predict relevant capability, because they need a practical screening device, or both; whether competition for scarce opportunities increases the value of scores independently of learning; and which decisions actually depend on SSC/HSC results.
 
@@ -82,7 +84,7 @@ I cannot currently conclude that examination pressure is the single or main caus
 2. Search Bangla and English for SSC/HSC washback beyond English and for current tutoring patterns.
 3. Verify official progression, admission, and selection rules from primary Bangladesh records.
 4. Investigate employer use of SSC/HSC and later qualifications, and whether credentials predict task-relevant competence.
-5. Examine Hirsch and Collins as required by Step 3, compare their arguments with Dore and Spence, and test predictions against Bangladesh-specific evidence.
+5. Read Hirsch and Collins in depth, compare their distinct mechanisms with Dore and Spence, and test predictions against Bangladesh-specific evidence.
 6. Verify NEP 2010 wording and the 2012 curriculum rollout against primary documents; do not substitute secondary commentary.
 7. Trace historical tutoring percentages to original datasets and do not rely on abstract-level figures as final load-bearing evidence.
 8. Define how future-preparation outcomes could be measured before comparing them with exam-preparation indicators.
