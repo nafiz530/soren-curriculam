@@ -2,21 +2,21 @@
 
 Evidence notes are source-derived records, not final arguments.
 
-Each evidence note should contain:
-
-- Source ID
-- Exact document title
-- Page/section/table where applicable
-- Claim or finding
-- Evidence type
-- Context/limitations
+Every evidence note or table should identify:
+- Source ID and exact document title
+- Exact page/section/table
+- Claim or finding and evidence type
+- Operational construct and measure, where relevant
+- Population, setting, date, commissioner/funder, and source independence
+- Context, transferability, uncertainty, and limitations
 - What the source does **not** establish
-- Relevance to Step 1
-- Confidence assessment
-- Cross-links to other sources
+- Relevance to the research question and appraisal judgement
+- Counterevidence and verification status
 
-Do not convert an institutional aspiration into an empirical finding.
+Do not convert an institutional aspiration into an empirical finding. Do not convert correlation into causation. Do not generalize a country-specific finding without checking the causal conditions needed for transfer.
 
-Do not convert correlation into causation.
+## Step 4 artifacts
+- [Evidence table template](step-04/evidence-table-template.md)
+- [Search log template](step-04/search-log-template.md)
 
-Do not generalise a country-specific finding to all education systems without justification.
+Use full traceability for title-level synthesis, major causal/comparative claims, national policy-status claims, load-bearing statistics, and major recommendations. Use lighter treatment for non-load-bearing background facts.
