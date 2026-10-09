@@ -18,7 +18,7 @@ The project begins with research rather than website development. Evidence, argu
 
 Step 1 — Research Question, Objectives & Scope — **Approved (2026-10-09)**.
 
-The next research step is Step 2: **What Is Education?**
+Steps 1–3 are approved. Step 4, **Research Methodology & Evidence Standards**, is now in progress and awaiting review.
 
 The final presentation and website structure will be decided only after the research has been substantially developed.
 
