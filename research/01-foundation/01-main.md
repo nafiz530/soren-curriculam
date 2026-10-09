@@ -1,18 +1,19 @@
 # Step 1 — Research Question, Objectives & Scope
 
+**Author:** Md. Nafiz  
 **Status:** Draft for research review  
-**Last reviewed:** Initial draft only  
+**Last reviewed:** Initial draft; source archive updated 2026-10-09  
 **Approval:** Pending
 
-> This document is deliberately provisional. It is a research draft, not a final statement of the Soren Education System.
+> This is a working research draft, not a final statement of the Soren Education System. I will revise it as evidence, criticism, and review improve the research.
 
-## 1. Why this research exists
+## 1. Why I am conducting this research
 
 Education affects far more than what happens inside a classroom. It influences what people know, what they can do, how they reason, how they participate in society, how they enter further education or work, and whether they can continue learning.
 
-At the same time, education systems contain inherited structures, policy goals, cultural expectations, resource constraints, assessment systems, and institutional incentives. A serious redesign therefore cannot begin by choosing a fashionable curriculum or a preferred teaching method.
+Education systems also contain inherited structures, policy goals, cultural expectations, resource constraints, assessment systems, and institutional incentives. I do not want to begin by choosing a fashionable curriculum or a preferred teaching method. I first need to investigate what education should accomplish and what evidence should guide its design.
 
-This project begins with a more basic investigation:
+The central problem behind this research is:
 
 **What is an education system supposed to accomplish, and what evidence should determine how it is designed?**
 
@@ -22,25 +23,17 @@ This project begins with a more basic investigation:
 
 > **What should an education system look like if its purpose is to help people develop the knowledge, capabilities, judgement, character, agency, and foundations needed to learn, live, work, participate in society, and continue developing across their lives?**
 
-This wording is intentionally broader than "future skills". It keeps knowledge, human development, work, society, agency, and lifelong learning in the research space without deciding their relative importance in advance.
+I have kept this question broader than “future skills.” It leaves knowledge, human development, work, society, agency, and lifelong learning open for investigation without deciding their relative importance in advance.
 
-### Motivating question
+### The question that motivates this research
 
 > **Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?**
 
-This question motivates the project but does not establish its conclusion.
-
-The research must test both sides:
-
-- what examination-oriented systems accomplish well;
-- what they may fail to capture;
-- what other educational outcomes matter;
-- whether proposed alternatives actually improve those outcomes;
-- what trade-offs alternative designs introduce.
+This question motivates my research, but it does not establish the conclusion. I will examine what examination-oriented systems accomplish well, what they may fail to capture, which other outcomes matter, whether alternatives improve those outcomes, and what trade-offs those alternatives introduce.
 
 ## 3. Secondary research questions
 
-The initial secondary questions are:
+I will investigate these connected questions:
 
 1. **Purpose:** What purposes can education legitimately serve, and how should competing purposes be balanced?
 2. **Learner:** What do learners need at different stages of development?
@@ -56,35 +49,33 @@ The initial secondary questions are:
 12. **Transitions:** How should education connect with higher education, work, citizenship, and lifelong learning?
 13. **Governance:** What institutions and incentives are required for the system to function?
 14. **Implementation:** What can realistically be implemented under different resource conditions?
-15. **Evaluation:** How would we know whether the proposed system is actually working?
+15. **Evaluation:** How would we know whether a proposed system is actually working?
 
-## 4. Objectives
+## 4. Research objectives
 
-The project aims to:
+I aim to:
 
 1. establish a defensible account of the purposes of education;
-2. understand the learner and the learning process before prescribing curriculum;
-3. examine existing education systems without assuming that they are either wholly successful or wholly broken;
+2. understand learners and learning before prescribing a curriculum;
+3. examine existing education systems without assuming they are wholly successful or wholly broken;
 4. identify documented strengths, weaknesses, trade-offs, and unintended consequences;
 5. compare alternative models and the evidence surrounding them;
 6. develop principles for curriculum, teaching, assessment, teachers, technology, pathways, governance, and implementation;
 7. design a complete education system rather than only a syllabus;
 8. make the proposed system measurable and testable;
 9. identify foreseeable failure modes and unintended consequences;
-10. create an improvement mechanism so the system can change when evidence changes.
+10. create a process for improving the system when evidence changes.
 
-These are project objectives. They are not claims that the proposed system will necessarily achieve them.
+These are my research objectives, not claims that a proposed system will necessarily achieve them.
 
 ## 5. Scope
 
-### Included
+### What I will examine
 
-The research will examine education as a **system**, including:
+I will examine education as a **system**, including:
 
-- learners;
-- learning;
-- educational purposes;
-- educational stages;
+- learners and learning;
+- educational purposes and stages;
 - curriculum;
 - teaching and learning environments;
 - assessment and examinations;
@@ -100,41 +91,41 @@ The research will examine education as a **system**, including:
 
 ### Geographic scope
 
-The project will use **Bangladesh as a primary contextual case**, while drawing on international evidence for comparison and transferability.
+I will use **Bangladesh as the primary contextual case** while drawing on international evidence for comparison and transferability.
 
-International examples will not be imported simply because they appear successful elsewhere. Each major comparison must consider context, implementation conditions, incentives, resources, culture, governance, and evidence quality.
+I will not import an international example simply because it appears successful elsewhere. Major comparisons must consider context, implementation conditions, incentives, resources, culture, governance, and evidence quality.
 
 ### Educational scope
 
-The main design target is a coherent education pathway from early education through secondary education, with connections to post-secondary pathways, work, citizenship, and lifelong learning.
+The main design target is a coherent pathway from early education through secondary education, with connections to post-secondary pathways, work, citizenship, and lifelong learning.
 
-The exact age boundaries and stage definitions are to be determined through later research rather than assumed now.
+I will determine exact age boundaries and stage definitions through later research rather than assume them at the outset.
 
-### Audience
+### Intended audience
 
-The final research should be understandable to an educated general reader, while maintaining enough methodological detail for teachers, researchers, policymakers, students, and other critical readers to inspect the reasoning.
+I am writing for an educated general reader, including students, parents, teachers, researchers, policymakers, and other people interested in education. I will use plain language while preserving the methodological detail needed to inspect my reasoning.
 
-Plain language is a communication goal; simplification must not remove important uncertainty or limitations.
+Clarity must not come at the cost of hiding uncertainty, limitations, disagreement, or evidence quality.
 
-## 6. What is outside the initial scope
+## 6. What I will not assume or attempt at the outset
 
-The project will not initially attempt to:
+I will not initially:
 
 - prescribe a single ideology or philosophy of life;
 - redesign university education in full;
-- solve every social problem through schooling;
+- assume schooling can solve every social problem;
 - predict specific future jobs decades in advance;
 - assume technology or AI is inherently beneficial;
 - assume examinations are inherently harmful;
 - copy another country's education system wholesale;
-- treat a list of "21st-century skills" as sufficient evidence for curriculum design;
-- produce a final implementation budget before system requirements are known.
+- treat a list of “21st-century skills” as sufficient evidence for curriculum design;
+- produce a final implementation budget before system requirements are understood.
 
-These boundaries may be revisited if later evidence shows that they are necessary to answer the central research question.
+I may revisit these boundaries if later evidence shows that doing so is necessary to answer the central question.
 
-## 7. Key terms requiring research definitions
+## 7. Terms that need clear definitions
 
-The following terms must receive explicit definitions before later design decisions rely heavily on them:
+Before relying heavily on these terms in design decisions, I will define them using established literature or policy sources and note where credible definitions differ:
 
 - education;
 - learning;
@@ -155,30 +146,26 @@ The following terms must receive explicit definitions before later design decisi
 - lifelong learning;
 - education system.
 
-Definitions should preferably be sourced from established literature or policy documents and should note where legitimate competing definitions exist.
+## 8. Assumptions that must remain open to testing
 
-## 8. Initial assumptions that must remain testable
-
-The project currently treats these as hypotheses/questions rather than settled facts:
+I will treat the following as hypotheses or questions, not settled facts:
 
 - examination performance may be an incomplete measure of educational success;
-- educational systems may face trade-offs between breadth, depth, standardization, flexibility, and cost;
+- education systems may face trade-offs between breadth, depth, standardization, flexibility, and cost;
 - foundational knowledge may be necessary for many higher-order capabilities;
 - student agency may matter but may not be equally appropriate or feasible at every developmental stage;
 - technology may improve some learning processes while harming or displacing others;
 - a system that works in one context may not transfer directly to another;
 - implementation conditions can determine whether a theoretically strong reform succeeds or fails.
 
-## 9. Preliminary research principle
+## 9. Research principle
 
-The project will follow:
+I will follow this sequence:
 
 > **Research first. Design second. Test the design third.**
 
-A conclusion should not become a design requirement merely because it sounds plausible.
+I will not turn a conclusion into a design requirement merely because it sounds plausible. Major recommendations should be traceable to evidence, interpretation, stated values, and acknowledged trade-offs.
 
 ## 10. Current status
 
-This document is **not approved**.
-
-It will be revised after the Step 1 source review, including evidence that challenges the framing above.
+This document is **not approved**. I will revise it after reviewing the source material, considering counterevidence, and challenging the scope and terminology. It will become final only after that review and approval.
