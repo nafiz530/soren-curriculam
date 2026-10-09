@@ -29,3 +29,4 @@
 | RW-039 | 09-10-2026, 04:43:51 | `research/phase-01/step-02/main.md` | Fixed the spacing of the introductory blockquote. |
 | RW-040 | 09-10-2026, 04:43:54 | `research/phase-01/step-02/review-log.md` | Corrected a literal newline artifact and made the approval statement first-person. |
 | RW-042 | 09-10-2026, 04:43:39 | `Research Worklog/phase-01/step-02/worklog.md` | Logged the final timestamp-verification commit. |
+| RW-044 | 09-10-2026, 04:44:26 | `research/00-research-roadmap.md` | Corrected the Step 2 heading to display its approved status. |
