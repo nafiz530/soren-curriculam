@@ -17,7 +17,7 @@
 | SRC-030–033 — CASP, MMAT, ROBIS, AMSTAR 2 | How can different study designs and existing reviews be appraised? | Structured appraisal prompts suited to particular designs/review types. | A single interchangeable quality score for all sources. |
 | SRC-034 — Daniel Koretz, *Measuring Up* | How should educational test-score claims be interpreted? | Cautions about what educational tests and scores can and cannot show. | Proof that examinations are inherently harmful or useless. |
 
-## Claim-to-source traceability
+The added source records SRC-024–034 cover external validity and transfer, realist synthesis/evaluation, best-evidence and narrative synthesis, systematic-review design, study appraisal, risk of bias in reviews, and educational measurement. Their individual records specify intended use and scope limits.\n\n## Claim-to-source traceability
 
 | Manuscript claim or protocol choice | Source basis | Claim type | Confidence / limitation |
 |---|---|---|---|
