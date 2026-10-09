@@ -2,7 +2,7 @@
 
 **Author:** Md. Nafiz  
 **Phase:** 1 — Research Foundation  
-**Status:** Draft — review pending  
+**Status:** Approved (09-10-2026)  
 **Official research title:** *Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?*
 
 > This chapter maps major arguments about the purposes of education. It does not assume that one purpose should dominate all others, and it is not an approved design philosophy for the proposed system.
@@ -244,7 +244,7 @@ My interpretation is that the research should not begin by choosing a single dom
 
 The initial source base relied too heavily on institutional frameworks and a philosophical overview. This revision adds Ronald Dore on credential competition, Gert Biesta's qualification/socialization/subjectification framework, and Michael Spence's signaling model. These works sharpen the analysis but do not settle it: Biesta's framework is influential and debated, Dore's account must be tested against present-day Bangladesh rather than copied wholesale, and Spence's model explains one function of credentials rather than proving that credentials measure competence. Further work should add Amartya Sen's capability approach, Fred Hirsch on positional goods, Randall Collins on credentialism, and Bangladesh-specific research on coaching and examination washback.
 
-## 9. Open questions before approval
+## 9. Open questions for later research
 
 1. Are the major purposes represented fairly, including strong arguments for employment-focused and academically rigorous education?
 2. Does the certification/selection/signaling subsection explain why exam pressure persists without treating existing arrangements as inevitable?
@@ -261,6 +261,6 @@ The initial source base relied too heavily on institutional frameworks and a phi
 13. Does the evaluation checklist specify who decides, who is consulted, and how decisions can be challenged?
 14. Which primary scholarly works and Bangladesh-specific sources should be added before approval?
 
-## 10. Current status
+## 10. Approval status and limits
 
-This chapter is a **draft for review**. It maps possible purposes and their tensions; it does not establish a final hierarchy of aims or approve a particular education-system design. I will revise it in response to objections, strengthen the source base, and record unresolved issues before requesting approval.
+I have reviewed and approved this chapter on 09-10-2026. Approval means that this step provides an acceptable foundation for the next stage of research; it does not mean every open question is resolved, that the source base is exhaustive, or that a final hierarchy of educational aims or system design has been established. The questions in Section 9 remain research tasks to be addressed when relevant. Any later evidence-led correction must be documented rather than silently rewriting the approved record.
