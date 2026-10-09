@@ -104,3 +104,5 @@
 | RW-095 | 09-10-2026, 05:29:11 | README.md | Update current research-step pointer |
 | RW-096 | 09-10-2026, 05:29:19 | research/00-research-roadmap.md | Mark Step 4 in progress |
 | RW-097 | 09-10-2026, 05:29:25 | Research Worklog/phase-01/step-04/worklog.md | Create Step 4 detailed worklog |
+| RW-098 | 09-10-2026, 05:29:42 | sources/source-register.md | Fix Step 4 source-register row formatting |
+| RW-099 | 09-10-2026, 05:29:48 | Research Worklog/phase-01/step-04/worklog.md | Log source-register formatting correction |
