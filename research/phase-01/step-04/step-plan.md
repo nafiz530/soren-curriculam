@@ -160,13 +160,17 @@ Not every philosophical or conceptual claim follows a causal chain, and not ever
 
 These commitments are open to review and refinement. They are not a claim that bias can be eliminated; the goal is to make it visible, challengeable, and less likely to control the conclusion.
 
-## Planned outputs
+## Repository artifacts
 
-- `step-plan.md` — research questions, method, appraisal standards, and approval gate.
-- `main.md` — proposed research protocol and evidence standards.
-- `source-map.md` — method sources mapped to claims, decisions, and limits.
-- `review-log.md` — objections, revisions, open questions, and approval record.
-- Step-specific source records under `sources/phase-01/step-04/`.
+- `research/phase-01/step-04/main.md` — approved working protocol and evidence standards.
+- `research/phase-01/step-04/source-map.md` — sources mapped to claims, decisions, and limits.
+- `research/phase-01/step-04/review-log.md` — reviewer amendments, approval record, and continuing obligations.
+- `methods/step-04-evidence-synthesis-protocol.md` — operational procedure used during later research.
+- `evidence/phase-01/step-04/EV-004-001-methods-source-synthesis.md` — synthesis of the methodology sources.
+- `evidence/phase-01/step-04/evidence-table-template.md` and `search-log-template.md` — claim-level evidence and search audit templates.
+- `decisions/DEC-004-001-evidence-threshold.md` and `DEC-004-002-constructs-and-adversarial-review.md` — approved methodological decisions.
+- Source records SRC-020–SRC-034 under `sources/phase-01/step-04/` and the master `sources/source-register.md`.
+- `Research Worklog/phase-01/step-04/worklog.md` and `Research Worklog/Main.md` — detailed and central change records.
 
 ## Required operational artifacts
 
