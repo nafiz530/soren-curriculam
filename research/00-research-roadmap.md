@@ -1,26 +1,24 @@
 # Research Roadmap
 
-## Soren Education System
+## Soren Education System Research
 
-### Working Research Title
+**Author:** Md. Nafiz
 
-**Designing an Education System for Learning, Life, and the Future**
+### Official Research Title
 
-### Central Research Question
+> **Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?**
 
-> **Is our education system actually preparing students for the future, or is it just preparing students to pass exams?**
+This is the question the research will investigate, not a conclusion assumed in advance.
 
-The broader research question is:
+### Broader Design Question
 
-> **What should an education system look like if its purpose is to develop knowledgeable, capable, adaptable, ethical, and independent people who can learn, work, contribute to society, and continue developing throughout their lives?**
+> What should an education system look like if its purpose is to help people develop the knowledge, capabilities, judgement, character, agency, and foundations needed to learn, live, work, participate in society, and continue developing across their lives?
 
 ---
 
 ## How This Roadmap Will Be Used
 
-This roadmap is the initial research architecture. It is deliberately broad enough to support a genuinely large research project, but it is **not frozen**.
-
-A step may later be split into several documents, merged with another step, reordered, expanded, or removed when evidence and research needs justify doing so.
+This roadmap is the research architecture. It is broad enough to support a substantial project, but it is **not frozen**. A step may be split, merged, reordered, expanded, or removed when evidence and research needs justify doing so.
 
 The project should not jump directly from criticism of existing education to a proposed replacement. The research should first understand:
 
@@ -28,11 +26,15 @@ The project should not jump directly from criticism of existing education to a p
 
 The final system must emerge from the research rather than being predetermined.
 
+**Research workflow:** Research → Discuss → Review → Revise → Approve → Commit → Continue.
+
+**Step 1 status:** Approved by Md. Nafiz on 2026-10-09 after reviewing the files individually.
+
 ---
 
 # Phase 1 — Research Foundation
 
-## 1. Research Question, Objectives & Scope
+## 1. Research Question, Objectives & Scope — APPROVED
 Define the central question, secondary questions, objectives, boundaries, terminology, intended audience, and expected outputs.
 
 ## 2. What Is Education?
@@ -43,8 +45,6 @@ Investigate the competing purposes of education: knowledge, personal development
 
 ## 4. Research Methodology & Evidence Standards
 Define how sources will be selected, evaluated, compared, cited, interpreted, and challenged. Establish standards for distinguishing evidence, interpretation, proposal, and speculation.
-
----
 
 # Phase 2 — Understanding the Learner
 
@@ -60,8 +60,6 @@ Investigate intrinsic and extrinsic motivation, engagement, autonomy, habits, se
 ## 8. Individual Differences & Student Diversity
 Examine differences in ability, prior knowledge, interests, learning needs, circumstances, pace, disability, and other factors relevant to educational design.
 
----
-
 # Phase 3 — Understanding Existing Education
 
 ## 9. History of Formal Education
@@ -75,8 +73,6 @@ Identify documented weaknesses and trade-offs in existing systems without assumi
 
 ## 12. What Existing Systems Get Right
 Identify valuable structures and practices that should be preserved, improved, or adapted rather than discarded.
-
----
 
 # Phase 4 — Comparative & International Evidence
 
@@ -92,8 +88,6 @@ Compare standardized examinations, coursework, projects, practical assessment, p
 ## 16. Educational Reform: Successes, Failures & Lessons
 Study major reforms and identify why interventions succeeded, failed, produced limited results, or generated unintended effects.
 
----
-
 # Phase 5 — Defining the Learner's Journey
 
 ## 17. Educational Stages & Progression
@@ -107,8 +101,6 @@ Determine what every educated person should learn and when meaningful choice and
 
 ## 20. Academic, Technical & Vocational Pathways
 Design principles for multiple respected pathways without creating unnecessary hierarchy between them.
-
----
 
 # Phase 6 — Curriculum Architecture
 
@@ -124,8 +116,6 @@ Determine how projects, laboratories, experimentation, fieldwork, problem solvin
 ## 24. Life Skills, Communication & Future Capabilities
 Investigate financial literacy, communication, critical thinking, digital literacy, decision-making, collaboration, information literacy, and other capabilities.
 
----
-
 # Phase 7 — Teaching & Learning Environment
 
 ## 25. Teaching Methodology
@@ -136,8 +126,6 @@ Research class size, schedules, lesson structure, homework, independent study, s
 
 ## 27. Practical & Project-Based Learning
 Design evidence-informed approaches for laboratories, projects, demonstrations, fieldwork, creation, experimentation, and authentic problem solving.
-
----
 
 # Phase 8 — Assessment & Examinations
 
@@ -150,8 +138,6 @@ Examine assessment during learning, end-of-stage assessment, practical competenc
 ## 30. Examinations, Grades & High-Stakes Decisions
 Investigate what examinations and grades can and cannot measure, including their use for progression, certification, and admission.
 
----
-
 # Phase 9 — Teachers, Technology & AI
 
 ## 31. Teacher Role, Preparation & Professional Development
@@ -162,8 +148,6 @@ Investigate when technology improves learning, when it adds little value, and ho
 
 ## 33. Artificial Intelligence & the Future of Learning
 Examine AI tutoring, personalization, feedback, accessibility, assessment, academic integrity, dependency, privacy, misinformation, and the changing role of human educators.
-
----
 
 # Phase 10 — Equity, Governance & System Conditions
 
@@ -176,8 +160,6 @@ Examine the roles of parents, school leaders, local authorities, governments, re
 ## 36. Resources, Funding & Low-Resource Implementation
 Determine what the proposed system requires and how it could function in rural, low-resource, overcrowded, or technologically limited environments.
 
----
-
 # Phase 11 — Education Beyond School
 
 ## 37. Higher Education, Careers & Workforce Transition
@@ -185,8 +167,6 @@ Examine how school education should connect with university, technical education
 
 ## 38. Citizenship, Society & Lifelong Learning
 Investigate education's relationship with civic participation, social responsibility, personal development, and the ability to continue learning throughout life.
-
----
 
 # Phase 12 — Designing, Testing & Defending the Proposed System
 
@@ -206,8 +186,7 @@ A major conclusion or design decision should ideally be traceable through:
 
 **Evidence → Finding → Interpretation → Problem or Opportunity → Design Principle → Proposed Decision → Expected Outcome → Possible Failure Mode**
 
-The final proposal should also clearly distinguish:
-
+The final proposal should clearly distinguish:
 - **Established evidence**
 - **Reasonable interpretation**
 - **Research-backed recommendation**
@@ -216,107 +195,3 @@ The final proposal should also clearly distinguish:
 - **Speculation**
 
 No proposal should be presented as established fact merely because it appears in the final system.
-
----
-
-# Planned Research Outputs
-
-The 40 steps are the backbone of the project. Individual steps may later contain multiple Markdown documents where the subject requires deeper treatment.
-
-The eventual research corpus may therefore contain substantially more than 40 files.
-
-Possible supporting materials include:
-
-- evidence notes
-- source reviews
-- comparative tables
-- datasets
-- definitions
-- literature summaries
-- case studies
-- methodological notes
-- design drafts
-- objections and counterarguments
-- appendices
-
-The final public structure will be decided **after the research has been developed**, not before.
-
----
-
-## Guiding Principle
-
-> **Do not design the education system first and then search for evidence to justify it. Research first. Design second. Test the design third.**
-
-The objective is not to create an education system that sounds impressive.
-
-The objective is to create one that can withstand serious questioning.
-
-
----
-
-# Repository Research Architecture
-
-The repository separates **sources, evidence, synthesis, methods, decisions, data, and proposed design** so that generated writing cannot become the hidden source of truth.
-
-### Phase folder mapping
-
-Each roadmap phase has a corresponding research folder:
-
-- `research/01-foundation/` → Phase 1
-- `research/02-learner/` → Phase 2
-- `research/03-existing-education/` → Phase 3
-- `research/04-comparative-evidence/` → Phase 4
-- `research/05-learner-journey/` → Phase 5
-- `research/06-curriculum/` → Phase 6
-- `research/07-teaching-environment/` → Phase 7
-- `research/08-assessment/` → Phase 8
-- `research/09-teachers-technology-ai/` → Phase 9
-- `research/10-equity-governance-resources/` → Phase 10
-- `research/11-beyond-school/` → Phase 11
-- `research/12-proposed-system/` → Phase 12
-
-### Standard step package
-
-A substantial research step should normally contain:
-
-1. `NN-step-plan.md` — research questions, search strategy, inclusion/exclusion criteria, planned outputs.
-2. `NN-main.md` — reviewed synthesis; this is not allowed to silently substitute for source material.
-3. `NN-source-map.md` — sources linked to the questions and claims they inform.
-4. `NN-review-log.md` — objections, corrections, unresolved issues, and approval status.
-
-Supporting files may include:
-- evidence notes;
-- source-specific reviews;
-- literature matrices;
-- datasets;
-- tables;
-- appendices;
-- competing interpretations.
-
-### Source archive
-
-`sources/` is independent of the research prose.
-
-- `sources/documents/` — archival copies of original source documents when legally and technically possible.
-- `sources/source-register.md` — master bibliography and archival status.
-- `sources/phase-NN/` — phase-specific source index and notes.
-
-If a source cannot be archived, its canonical official record and source-specific evidence note must still be retained.
-
-### Evidence layer
-
-`evidence/phase-NN/` contains source-derived findings with provenance. Evidence notes must state what a source establishes **and what it does not establish**.
-
-### Method and decision layers
-
-- `methods/` — research methodology and evidence standards.
-- `decisions/` — scope changes, definitions, evidence rules, rejected hypotheses, and other research-level decisions.
-- `data/` — raw and processed datasets, kept separate.
-
-### Traceability rule
-
-A final proposal should be traceable backward:
-
-**Proposed decision → design principle → interpretation → evidence → original source**
-
-This traceability is a core research requirement, not optional documentation.
