@@ -65,6 +65,10 @@ Step 3 remains approved, but the following gaps remain active research obligatio
 
 These obligations are linked from the central roadmap and should be scheduled when the relevant later steps are reached.
 
+## First method application — opened 2026-10-09
+
+A bounded pilot on credential competition, signaling, SSC English washback, and supplementary tutoring has been opened under research/phase-01/step-04/application-01-credential-pressure/. It is a test of the approved method, not a replacement for the roadmap's Step 5. The pilot is explicitly provisional: its source search is incomplete, full-text appraisal and Bangla-language searching remain outstanding, and no national conclusion is approved. See the linked application plan, manuscript, source map, review log, EV-004-002 evidence note, and DEC-004-003 sequencing decision.
+
 ## Remaining application tasks
 
 Approval sets the working standard; it does not mean every later question has already been operationalized. Before title-level synthesis, I must define both central constructs and record how each included study matches them. Before any human-subjects research, I must verify applicable school, guardian, institutional, ethical and legal permissions. Domain reviewers must be identified where feasible for high-impact conclusions.
