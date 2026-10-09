@@ -26,3 +26,6 @@
 | RW-033 | 09-10-2026, 04:42:48 | `research/00-research-roadmap.md` | Updated the roadmap to reflect the author's approval of Step 2. |
 | RW-035 | 09-10-2026, 04:43:07 | `Research Worklog/phase-01/step-02/worklog.md` | Added exact UTC record-time columns and recorded Step 2 approval in the detailed log. |
 | RW-037 | 09-10-2026, 04:43:23 | `Research Worklog/phase-01/step-02/worklog.md` | Finalized the roadmap record and exact timestamp after verification. |
+| RW-039 | 09-10-2026, 04:43:51 | `research/phase-01/step-02/main.md` | Fixed the spacing of the introductory blockquote. |
+| RW-040 | 09-10-2026, 04:43:54 | `research/phase-01/step-02/review-log.md` | Corrected a literal newline artifact and made the approval statement first-person. |
+| RW-042 | 09-10-2026, 04:43:39 | `Research Worklog/phase-01/step-02/worklog.md` | Logged the final timestamp-verification commit. |
