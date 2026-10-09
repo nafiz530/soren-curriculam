@@ -43,9 +43,23 @@ Examine education from philosophical, psychological, social, economic, cultural,
 ## 3. What Is Education For? — APPROVED (2026-10-09)
 Investigate the competing purposes of education: knowledge, personal development, employment, citizenship, social development, economic development, culture, equity, well-being, and lifelong learning. Approved as a conceptual foundation; evidence gaps and open questions remain documented for later research. No final hierarchy or system design has been approved.
 
-## 4. Research Methodology & Evidence Standards — IN PROGRESS (DRAFT; REVIEW PENDING)
-Define how sources will be selected, evaluated, compared, cited, interpreted, and challenged. Establish standards for distinguishing evidence, interpretation, proposal, and speculation. A draft protocol and source map are available for review; no approval is recorded yet.
+## 4. Research Methodology & Evidence Standards — APPROVED (2026-10-09)
+Establish claim-relative appraisal, construct operationalization, transparent search records, trace-to-origin rules for load-bearing statistics, adversarial review, evidence thresholds, normative disagreement procedures, proportional traceability, and ethics safeguards. Approved as the working standard; future applications must document compliance. See [manuscript](phase-01/step-04/main.md), [operational protocol](../methods/step-04-evidence-synthesis-protocol.md), [evidence templates](../evidence/phase-01/step-04/evidence-table-template.md), and [decision records](../decisions/).
 
+## Carry-forward obligations from Step 3 — OPEN RESEARCH TASKS
+
+Step 3 is approved as a conceptual foundation, but its unresolved evidence gaps remain obligations to schedule and complete—not decorative notes.
+
+1. **Credential competition:** examine Hirsch and Collins in depth and test credential competition, selection, and signaling against Bangladesh-specific evidence.
+2. **NEP 2010 purpose mapping:** verify the manuscript's mapping against exact wording in the archived primary policy.
+3. **Curriculum history:** verify the 2012 revision and detailed grade-by-grade rollout against primary NCTB/Ministry records.
+4. **Policy and reform status:** continue checking formal adoption and implementation; distinguish broad commissions, specialized committees, proposed policies, adopted policies, and implemented curricula.
+5. **Exam pressure mechanisms:** investigate coaching/shadow education, SSC/HSC washback, credential competition, and pathway inequalities.
+6. **Educational purposes and governance:** continue examining climate/ecological education, moral/spiritual development, pluralism, and who legitimately decides educational aims.
+7. **Political continuity:** preserve the distinction between evidence-led reform and partisan reversal; do not infer political motive from chronology alone.
+
+These obligations should be attached to the later roadmap steps where they are directly relevant (especially Steps 9–16, 28–30, 34–35, and the final synthesis). They do not revoke Step 3 approval.
+ 
 # Phase 2 — Understanding the Learner
 
 ## 5. How Humans Learn
