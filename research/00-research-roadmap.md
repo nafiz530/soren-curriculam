@@ -28,7 +28,7 @@ The final system must emerge from the research rather than being predetermined.
 
 **Research workflow:** Research → Discuss → Review → Revise → Approve → Commit → Continue.
 
-**Step 1 status:** Approved by Md. Nafiz on 2026-10-09 after reviewing the files individually.
+**Step 1 status:** I reviewed the files individually and approved the scope on 2026-10-09.
 
 ---
 
@@ -195,3 +195,8 @@ The final proposal should clearly distinguish:
 - **Speculation**
 
 No proposal should be presented as established fact merely because it appears in the final system.
+
+
+## Repository path convention
+
+Each research step has a dedicated directory: `research/phase-NN/step-NN/`. Typical files are `step-plan.md`, `main.md`, `source-map.md`, and `review-log.md`. Step-specific source records belong under `sources/phase-NN/step-NN/`; original documents remain in `sources/documents/`, and the master bibliography remains `sources/source-register.md`. The repository-wide change ledger is `Research Worklog/Main.md`, with detailed logs at `Research Worklog/phase-NN/step-NN/worklog.md`.
