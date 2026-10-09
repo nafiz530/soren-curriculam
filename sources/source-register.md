@@ -33,6 +33,17 @@
 | SRC-021 | What Works Clearinghouse Procedures and Standards Handbook, Version 5.0 | Official education intervention review standards | 2022 (revised Dec 2022) | Referenced | Explicit procedures for appraising education intervention studies within WWC's remit |
 | SRC-022 | HM Treasury / UK Evaluation Task Force, The Magenta Book | Official evaluation guidance | 2026 | Referenced | Evaluation design, causal reasoning, process/impact/value-for-money methods |
 | SRC-023 | American Educational Research Association Code of Ethics | Professional research ethics code | 2011 | Referenced | Research integrity, competence, participant rights and dignity |
+| SRC-024 | Cartwright & Hardie, *Evidence-Based Policy: A Practical Guide to Doing It Better* | Scholarly monograph | 2012 | Referenced | Causal conditions and context required for transferability |
+| SRC-025 | Pawson, “Evidence-Based Policy: The Promise of Realist Synthesis” | Methodological article | 2002 | Referenced | Realist synthesis and mechanism/context reasoning |
+| SRC-026 | Pawson & Tilley, *Realistic Evaluation* | Scholarly methods book | 1997 | Referenced | Theory-driven evaluation of mechanisms, context, and outcomes |
+| SRC-027 | Slavin, “Perspectives on Evidence-Based Research in Education: What Works?” | Peer-reviewed methodological article | 2008 | Referenced | Best-evidence synthesis and study-quality considerations |
+| SRC-028 | Popay et al., *Guidance on the Conduct of Narrative Synthesis in Systematic Reviews* | Methods guidance | 2006 | Referenced | Structured narrative synthesis for heterogeneous evidence |
+| SRC-029 | Gough, Oliver & Thomas, *An Introduction to Systematic Reviews*, 2nd ed. | Methods textbook | 2017 | Referenced | Review design, searching, appraisal, and synthesis |
+| SRC-030 | Critical Appraisal Skills Programme (CASP) checklists | Appraisal tools | Current version to verify at use | Referenced | Design-specific critical appraisal prompts |
+| SRC-031 | Hong et al., Mixed Methods Appraisal Tool (MMAT), version 2018 | Peer-reviewed appraisal-tool article | 2018 | Referenced | Appraisal of qualitative, quantitative, and mixed-method studies |
+| SRC-032 | ROBIS, Risk of Bias in Systematic Reviews | Review appraisal tool | Current | Referenced | Risk-of-bias appraisal for systematic reviews |
+| SRC-033 | Shea et al., AMSTAR 2 | Peer-reviewed review appraisal tool | 2017 | Referenced | Appraisal of healthcare intervention reviews; limited transfer to education |
+| SRC-034 | Koretz, *Measuring Up: What Educational Testing Really Tells Us* | Scholarly book | 2008 | Referenced | Limits of educational test-score interpretation and high-stakes use |
 
 ## Initial source-selection observation
 
@@ -51,7 +62,7 @@ The following original source files are currently present in the repository:
 
 The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL.
 
-Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. Step 3 adds SRC-012 through SRC-019 as scholarly and Bangladesh curriculum/reform sources. These records do not represent duplicate original source artifacts.
+Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. Step 3 adds SRC-012 through SRC-019 as scholarly and Bangladesh curriculum/reform sources. Step 4 adds SRC-020 through SRC-034 as methodology, evaluation, appraisal, transferability, and assessment sources. These records do not represent duplicate original source artifacts.
 
 ## Additional data archive
 
