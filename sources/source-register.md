@@ -30,22 +30,24 @@ The source base mixes international normative work, future-oriented frameworks, 
 
 The following original source files are currently present in the repository:
 
-- `sources/documents/SRC-001-unesco-reimagining-our-futures-together-2021.pdf`
-- `sources/documents/SRC-004-unicef-every-child-learns-2019.pdf`
-- `sources/documents/SRC-005-unicef-shaping-the-future-of-learning-2026.pdf`
-- `sources/documents/SRC-006-world-bank-bangladesh-learning-poverty-brief-2024.pdf`
-- `sources/documents/SRC-007-bangladesh-national-education-policy-2010.pdf`
-- `sources/documents/SRC-008-world-bank-global-education-policy-dashboard-2026.pdf`
+- sources/documents/SRC-001-unesco-reimagining-our-futures-together-2021.pdf
+- sources/documents/SRC-004-unicef-every-child-learns-2019.pdf
+- sources/documents/SRC-005-unicef-shaping-the-future-of-learning-2026.pdf
+- sources/documents/SRC-006-world-bank-bangladesh-learning-poverty-brief-2024.pdf
+- sources/documents/SRC-007-bangladesh-national-education-policy-2010.pdf
+- sources/documents/SRC-008-world-bank-global-education-policy-dashboard-2026.pdf
 
-The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL. Their step-specific records are stored in `sources/phase-01/step-02/`.
+The OECD concept-note PDF for SRC-002 has not yet been archived. SRC-010 is a web reference article and SRC-011 is an official classification document currently referenced by its canonical URL.
+
+Step-specific source records for SRC-010 and SRC-011 are stored under sources/phase-01/step-02/. Additional records for sources reused in Step 3 are stored under sources/phase-01/step-03/ so their relevance, use, and limitations are documented for that step. These records do not represent new source IDs or duplicate original source artifacts.
 
 ## Additional data archive
 
 The World Bank Learning Poverty Global Database is present at:
 
-`data/phase-01/SRC-006-world-bank-learning-poverty-database-2024.xls`
+data/phase-01/SRC-006-world-bank-learning-poverty-database-2024.xls
 
-The repository file is an `.xls` workbook, not `.xlsx`. Preserve the actual format unless the file is deliberately converted and the conversion is documented.
+The repository file is an .xls workbook, not .xlsx. Preserve the actual format unless the file is deliberately converted and the conversion is documented.
 
 ## Archival rules
 
