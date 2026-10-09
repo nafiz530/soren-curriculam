@@ -46,6 +46,8 @@ Investigate the competing purposes of education: knowledge, personal development
 ## 4. Research Methodology & Evidence Standards — APPROVED (2026-10-09)
 Establish claim-relative appraisal, construct operationalization, transparent search records, trace-to-origin rules for load-bearing statistics, adversarial review, evidence thresholds, normative disagreement procedures, proportional traceability, and ethics safeguards. Approved as the working standard; future applications must document compliance. See [manuscript](phase-01/step-04/main.md), [operational protocol](../methods/step-04-evidence-synthesis-protocol.md), [evidence templates](../evidence/phase-01/step-04/evidence-table-template.md), and [decision records](../decisions/).
 
+**First method application (draft):** [Credential competition and examination pressure in Bangladesh](phase-01/step-04/application-01-credential-pressure/main.md). This pilot tests the approved method and does not replace or renumber Step 5. Its findings remain unapproved pending review.
+
 ## Carry-forward obligations from Step 3 — OPEN RESEARCH TASKS
 
 Step 3 is approved as a conceptual foundation, but its unresolved evidence gaps remain obligations to schedule and complete—not decorative notes.
