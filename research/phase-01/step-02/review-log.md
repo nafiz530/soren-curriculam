@@ -4,7 +4,8 @@
 
 | Version | Date | Status | Activity | Outcome |
 |---|---|---|---|---|
-| v0.1 | 09-10-2026 | Initial draft | Created a research plan, provisional synthesis, and source map using an international classification framework, a scholarly overview, and a rights-based source | Draft prepared for review |\n| v1.0 | 09-10-2026 | Author-approved | I read the Step 2 files and approved this research step. Approval accepts the current draft while allowing evidence-led revision if later research warrants it. | Approved by Md. Nafiz; future changes must be logged and justified |
+| v0.1 | 09-10-2026 | Initial draft | Created a research plan, provisional synthesis, and source map using an international classification framework, a scholarly overview, and a rights-based source | Draft prepared for review |
+| v1.0 | 09-10-2026 | Author-approved | I read the Step 2 files and approved this research step. Approval accepts the current draft while allowing evidence-led revision if later research warrants it. | Approved by Md. Nafiz; future changes must be logged and justified |
 
 ## Issues to review
 
@@ -18,4 +19,4 @@
 
 ## Approval status
 
-**Status: Approved by Md. Nafiz on 09-10-2026.** Approval means the current step is accepted; it does not make the working definition immune to evidence-led revision.
+**Status: I approved Step 2 on 09-10-2026.** Approval means the current step is accepted; it does not make the working definition immune to evidence-led revision.
