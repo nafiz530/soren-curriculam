@@ -45,3 +45,8 @@
 | RW-036 | 09-10-2026, 04:43:20 | `Research Worklog/Main.md` | Add UTC timestamps and Step 2 approval records to central ledger |
 | RW-037 | 09-10-2026, 04:43:23 | `Research Worklog/phase-01/step-02/worklog.md` | Finalize Step 2 roadmap record and exact timestamp |
 | RW-038 | 09-10-2026, 04:43:25 | `Research Worklog/phase-01/step-01/worklog.md` | Finalize Step 1 worklog timestamp |
+| RW-039 | 09-10-2026, 04:43:51 | `research/phase-01/step-02/main.md` | Polish Step 2 manuscript blockquote formatting |
+| RW-040 | 09-10-2026, 04:43:54 | `research/phase-01/step-02/review-log.md` | Fix review-log formatting and first-person approval |
+| RW-041 | 09-10-2026, 04:43:37 | `Research Worklog/phase-01/step-01/worklog.md` | Log final Step 1 timestamp verification |
+| RW-042 | 09-10-2026, 04:43:39 | `Research Worklog/phase-01/step-02/worklog.md` | Log final Step 2 timestamp verification |
+| RW-043 | 09-10-2026, 04:43:35 | `Research Worklog/Main.md` | Finalize central ledger timestamps and serials |
