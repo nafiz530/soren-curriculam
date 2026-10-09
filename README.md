@@ -16,8 +16,13 @@ The project begins with research rather than website development. Evidence, argu
 
 **Research → Discuss → Review → Revise → Approve → Commit → Continue**
 
-Step 1 — Research Question, Objectives & Scope — **Approved by Md. Nafiz on 2026-10-09**.
+Step 1 — Research Question, Objectives & Scope — **Approved (2026-10-09)**.
 
 The next research step is Step 2: **What Is Education?**
 
 The final presentation and website structure will be decided only after the research has been substantially developed.
+
+
+## Repository structure
+
+Research documents are organized by phase and step, for example `research/phase-01/step-01/`. Step-specific source records use `sources/phase-01/step-01/` where relevant. The `Research Worklog/` directory contains the repository-wide `Main.md` change ledger and detailed worklogs for individual steps.
