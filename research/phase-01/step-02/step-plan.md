@@ -2,7 +2,7 @@
 
 **Author:** Md. Nafiz  
 **Phase:** 1 — Research Foundation  
-**Status:** Research in progress — not approved  
+**Status:** Approved (09-10-2026)  
 **Official research title:** *Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?*
 
 ## Purpose
