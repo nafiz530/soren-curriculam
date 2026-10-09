@@ -9,5 +9,6 @@ Examples include scope changes, operational definitions, inclusion/exclusion rul
 ## Current Step 4 decisions
 - [DEC-004-001 — Claim-relative evidence threshold](DEC-004-001-evidence-threshold.md)
 - [DEC-004-002 — Operational constructs and adversarial review](DEC-004-002-constructs-and-adversarial-review.md)
+- [DEC-004-003 — Credential-pressure pilot before Step 5](DEC-004-003-method-application-sequencing.md)
 
 Do not present a design choice as a research finding. Record why the choice was made and what could justify changing it.
