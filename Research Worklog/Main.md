@@ -42,4 +42,6 @@
 | RW-033 | 09-10-2026, 04:42:48 | `research/00-research-roadmap.md` | Mark Step 2 approved in roadmap |
 | RW-034 | 09-10-2026, 04:43:05 | `Research Worklog/phase-01/step-01/worklog.md` | Add exact UTC record-time columns to Step 1 log |
 | RW-035 | 09-10-2026, 04:43:07 | `Research Worklog/phase-01/step-02/worklog.md` | Add UTC timestamps and approval details to Step 2 log |
-| RW-036 | PENDING | `Research Worklog/Main.md` | Add UTC timestamps and Step 2 approval records to central ledger |
+| RW-036 | 09-10-2026, 04:43:20 | `Research Worklog/Main.md` | Add UTC timestamps and Step 2 approval records to central ledger |
+| RW-037 | 09-10-2026, 04:43:23 | `Research Worklog/phase-01/step-02/worklog.md` | Finalize Step 2 roadmap record and exact timestamp |
+| RW-038 | 09-10-2026, 04:43:25 | `Research Worklog/phase-01/step-01/worklog.md` | Finalize Step 1 worklog timestamp |
