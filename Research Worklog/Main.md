@@ -167,3 +167,15 @@
 | RW-157 | 09-10-2026, 16:09:47 UTC | research/phase-01/step-04/application-01-credential-pressure/step-plan.md | Link search log in plan |
 | RW-158 | 09-10-2026, 16:09:50 UTC | research/phase-01/step-04/review-log.md | Record first method application as draft |
 | RW-159 | 09-10-2026, 16:10:06 UTC | Research Worklog/phase-01/step-04/worklog.md | Log application files and source/index updates |
+
+| RW-160 | 09-10-2026, 16:10:49 UTC | sources/phase-01/step-04/SRC-040.md | Record Bangladesh mixed-methods examination study |
+| RW-161 | 09-10-2026, 16:10:51 UTC | sources/phase-01/step-04/SRC-041.md | Record Collins credentialism framework |
+| RW-162 | 09-10-2026, 16:10:54 UTC | sources/phase-01/step-04/SRC-042.md | Record Hirsch positional-goods framework |
+| RW-163 | 09-10-2026, 16:11:12 UTC | sources/source-register.md | Register SRC-040–042 |
+| RW-164 | 09-10-2026, 16:11:16 UTC | research/phase-01/step-04/application-01-credential-pressure/main.md | Integrate broader local evidence and three mechanisms |
+| RW-165 | 09-10-2026, 16:11:31 UTC | research/phase-01/step-04/application-01-credential-pressure/source-map.md | Map new source fit and limits |
+| RW-166 | 09-10-2026, 16:11:34 UTC | evidence/phase-01/step-04/EV-004-002-credential-pressure-pilot.md | Add broader Bangladesh evidence |
+| RW-167 | 09-10-2026, 16:11:38 UTC | research/phase-01/step-04/application-01-credential-pressure/review-log.md | Update adversarial review |
+| RW-168 | 09-10-2026, 16:11:42 UTC | data/searches/2026-10-09/credential-pressure-pilot.md | Record credentialism and Bangladesh study queries |
+| RW-169 | 09-10-2026, 16:12:02 UTC | research/phase-01/step-04/application-01-credential-pressure/main.md | Correct synthesis language |
+| RW-170 | 09-10-2026, 16:12:12 UTC | Research Worklog/phase-01/step-04/worklog.md | Log credentialism source and synthesis revisions |
