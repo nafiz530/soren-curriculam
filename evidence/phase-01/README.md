@@ -19,5 +19,8 @@ Do not convert an institutional aspiration into an empirical finding. Do not con
 - [Methodological source synthesis note](step-04/EV-004-001-methods-source-synthesis.md)
 - [Evidence table template](step-04/evidence-table-template.md)
 - [Search log template](step-04/search-log-template.md)
+- [EV-004-002 — Credential-pressure pilot (draft)](step-04/EV-004-002-credential-pressure-pilot.md)
+
+The credential-pressure pilot is a bounded method application, not a final national conclusion. Its source set and search remain incomplete.
 
 Use full traceability for title-level synthesis, major causal/comparative claims, national policy-status claims, load-bearing statistics, and major recommendations. Use lighter treatment for non-load-bearing background facts.
