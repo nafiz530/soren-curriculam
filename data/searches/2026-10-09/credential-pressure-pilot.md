@@ -36,6 +36,15 @@
 - Bangla-language searches and searches of BanglaJOL, CAMPE/Education Watch, BANBEIS, NCTB/Ministry primary records, and university repositories remain outstanding.
 - Direct evidence on employers' use of SSC/HSC credentials, admission rules, and the relation between credentials and task-relevant competence remains outstanding.
 
+## Additional discovery queries
+
+7. Randall Collins The Credential Society 1979 credentialism education original book publisher
+8. Fred Hirsch Social Limits to Growth 1976 positional goods education credentials primary source
+9. Bangladesh examination system impact curriculum students teachers society 2018 study journal
+10. Bangladesh HSC admission competition credential signaling employer education credentials study
+
+These queries identified SRC-040 (Al Amin & Greenwood, 2018), SRC-041 (Collins, 1979), and SRC-042 (Hirsch, 1976). The full books by Collins and Hirsch have not yet been read in full; their records support theory selection and hypothesis formation, not detailed chapter-level claims.
+
 ## Next search pass
 
 Search Bangla and English separately. Record the exact query, repository, date, filters, available hit count, screening decisions, and selected SRC IDs for each platform. Retrieve full texts of SRC-035–039 and trace the tutoring percentages in SRC-037 to the original tables before using them as load-bearing statistics.
