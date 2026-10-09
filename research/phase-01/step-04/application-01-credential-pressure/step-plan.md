@@ -54,6 +54,7 @@ Older sources may inform theory or history, but must not be presented as current
 - EV-004-002-credential-pressure-pilot.md — claim-level evidence note.
 - SRC-035 onward — source-specific provenance and limitations.
 - DEC-004-003-method-application-sequencing.md — rationale for this pilot without roadmap renumbering.
+- data/searches/2026-10-09/credential-pressure-pilot.md — exact discovery queries, screening, and search limitations.
 
 ## Approval gate
 
