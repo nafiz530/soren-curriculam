@@ -89,3 +89,5 @@
 | RW-167 | 09-10-2026, 16:11:38 UTC | research/phase-01/step-04/application-01-credential-pressure/review-log.md | Update devil's-advocate pass and outstanding appraisal tasks. |
 | RW-168 | 09-10-2026, 16:11:42 UTC | data/searches/2026-10-09/credential-pressure-pilot.md | Record Collins, Hirsch, and local examination-system searches. |
 | RW-169 | 09-10-2026, 16:12:02 UTC | research/phase-01/step-04/application-01-credential-pressure/main.md | Correct synthesis language after adding mixed-methods study. |
+
+| RW-171 | 09-10-2026, 16:12:33 UTC | sources/phase-01/step-04/SRC-039.md | Complete ADB authorship, publication date, and DOI metadata. |
