@@ -38,3 +38,8 @@
 | RW-074 | 09-10-2026, 05:10:41 | sources/phase-01/step-03/SRC-017.md | Added official secondary and higher-secondary review committee report. |
 | RW-075 | 09-10-2026, 05:10:43 | sources/phase-01/step-03/SRC-018.md | Recorded the primary and non-formal education advisory committee. |
 | RW-076 | 09-10-2026, 05:10:45 | sources/phase-01/step-03/SRC-019.md | Recorded current government's publicly stated curriculum reform plan. |
+| RW-080 | 09-10-2026, 05:27:05 | research/phase-01/step-03/step-plan.md | Record author approval and retain later research questions. |
+| RW-081 | 09-10-2026, 05:27:09 | research/phase-01/step-03/main.md | Mark chapter approved; reclassify open questions as later research. |
+| RW-082 | 09-10-2026, 05:27:16 | research/phase-01/step-03/source-map.md | Mark source map approved for the current research stage. |
+| RW-083 | 09-10-2026, 05:27:19 | research/phase-01/step-03/review-log.md | Record explicit author approval and preserve evidence gaps. |
+| RW-084 | 09-10-2026, 05:27:21 | research/00-research-roadmap.md | Mark Step 3 approved and identify Step 4 as next. |
