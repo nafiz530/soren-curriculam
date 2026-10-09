@@ -22,7 +22,7 @@ Step 2 established a provisional working definition of education. This step exam
 7. How should aims account for rights, learner agency, pluralism, inequality, climate, uncertainty, and future generations?
 8. What does Bangladesh's National Education Policy 2010 state, and how do its aims relate to later curriculum changes and actual outcomes?
 9. How should historical integrity and core educational commitments be protected across political transitions without blocking evidence-based reform?
-10. What is documented about the 2012 curriculum revision, the 2021/2022 framework, the progressive rollout from 2023, later revisions, and the reported education-reform-commission proposal?
+10. What is documented about the 2012 curriculum revision, the 2021/2022 framework, the progressive rollout from 2023, later revisions, specialized reform committees, and the reported education-reform-commission proposal?
 11. Who should decide educational aims and curriculum content, who must be consulted, and how should disputes be reviewed?
 12. What would count as evidence of progress, and what would remain difficult to measure?
 13. What are the strongest counterarguments to the major purposes identified?
@@ -50,7 +50,7 @@ These remain a map for investigation, not an approved final list or ranking:
 3. Compare normative sources (what education ought to serve), policy frameworks (what institutions commit to), and empirical evidence (what arrangements achieve, for whom, and under what conditions).
 4. Read Bangladesh's National Education Policy 2010 as a statement of national policy aims, not proof that those aims have been achieved. Map its aims to the working categories and verify exact wording against the primary document.
 5. Distinguish policy, curriculum framework, syllabus, textbook, assessment rules, political announcements, and formal decisions. Date the status of each claim.
-6. For the post-2024 commission question, seek a gazette, official order, membership notice, report, or other primary record; do not equate a reported intention with formal establishment.
+6. For the post-2024 reform process, distinguish a broad national education reform commission from specialized advisory/review committees. Use committee reports and official notices where available; do not equate a reported intention with formal establishment.
 7. Seek counterarguments and risks: instrumentalizing learners, elitism, indoctrination, cultural exclusion, economic reductionism, paternalism, partisan rewriting, and vague or unmeasurable goals.
 8. Keep source-derived claims, interpretation, value judgements, and proposed criteria separate.
 
