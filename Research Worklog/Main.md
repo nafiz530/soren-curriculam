@@ -50,3 +50,4 @@
 | RW-041 | 09-10-2026, 04:43:37 | `Research Worklog/phase-01/step-01/worklog.md` | Log final Step 1 timestamp verification |
 | RW-042 | 09-10-2026, 04:43:39 | `Research Worklog/phase-01/step-02/worklog.md` | Log final Step 2 timestamp verification |
 | RW-043 | 09-10-2026, 04:43:35 | `Research Worklog/Main.md` | Finalize central ledger timestamps and serials |
+| RW-044 | 09-10-2026, 04:44:26 | `research/00-research-roadmap.md` | Correct roadmap heading to show Step 2 approval |
