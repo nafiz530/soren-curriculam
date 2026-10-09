@@ -16,6 +16,7 @@ Every evidence note or table should identify:
 Do not convert an institutional aspiration into an empirical finding. Do not convert correlation into causation. Do not generalize a country-specific finding without checking the causal conditions needed for transfer.
 
 ## Step 4 artifacts
+- [Methodological source synthesis note](step-04/EV-004-001-methods-source-synthesis.md)
 - [Evidence table template](step-04/evidence-table-template.md)
 - [Search log template](step-04/search-log-template.md)
 
