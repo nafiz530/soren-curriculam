@@ -2,7 +2,7 @@
 
 **Author:** Md. Nafiz  
 **Phase:** 1 — Research Foundation  
-**Status:** Revised draft — review pending  
+**Status:** Approved (09-10-2026)  
 **Official research title:** *Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?*
 
 ## Purpose and main question
@@ -83,4 +83,4 @@ These are provisional commitments for examination, not a complete hierarchy of e
 
 ## Completion and approval gate
 
-The draft is ready for review when it describes major purposes fairly, identifies conflicts and counterarguments, distinguishes normative claims from empirical claims, includes Bangladesh context, handles the policy/curriculum chronology responsibly, and avoids prematurely selecting a final hierarchy of aims. This step remains **review pending** until I explicitly approve it.
+The draft is ready for review when it describes major purposes fairly, identifies conflicts and counterarguments, distinguishes normative claims from empirical claims, includes Bangladesh context, handles the policy/curriculum chronology responsibly, and avoids prematurely selecting a final hierarchy of aims. I reviewed and approved this step on 09-10-2026. The open questions below the research programme are retained as future research tasks, not approval blockers.
