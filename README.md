@@ -1,21 +1,23 @@
-# Soren Education System
+# Soren Education System Research
 
-A research project to investigate, design, and critically evaluate a comprehensive education system for learning, life, work, citizenship, and an uncertain future.
+**Author:** Md. Nafiz
 
-## Research
+## Official Research Title
 
-The project begins with research rather than website development. Evidence, arguments, design decisions, sources, revisions, and limitations will be documented in Markdown and version-controlled in this repository.
+> **Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?**
 
-## Core Question
+This research investigates the question rather than assuming its answer. It will examine the strengths, limitations, purposes, evidence, and trade-offs of existing education systems before developing and testing any proposed framework.
 
-> Is our education system actually preparing students for the future, or is it just preparing them to pass exams?
+## Research approach
 
-The research will not assume the answer. It will investigate the question and use the findings to develop a complete, evidence-informed education-system framework.
+The project begins with research rather than website development. Evidence, arguments, design decisions, sources, revisions, and limitations will be documented and version-controlled in this repository.
 
 ## Workflow
 
 **Research → Discuss → Review → Revise → Approve → Commit → Continue**
 
-The final presentation and website structure will be decided only after the research has been substantially developed.
+Step 1 — Research Question, Objectives & Scope — **Approved by Md. Nafiz on 2026-10-09**.
 
-**Status:** Research phase — beginning
+The next research step is Step 2: **What Is Education?**
+
+The final presentation and website structure will be decided only after the research has been substantially developed.
