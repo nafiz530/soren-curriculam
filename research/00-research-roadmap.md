@@ -40,8 +40,8 @@ Define the central question, secondary questions, objectives, boundaries, termin
 ## 2. What Is Education? — APPROVED
 Examine education from philosophical, psychological, social, economic, cultural, and institutional perspectives.
 
-## 3. What Is Education For? — IN PROGRESS (DRAFT; REVIEW PENDING)
-Investigate the competing purposes of education: knowledge, personal development, employment, citizenship, social development, economic development, culture, equity, well-being, and lifelong learning. The current draft maps purposes and tensions but does not establish a final hierarchy or approve a system design.
+## 3. What Is Education For? — APPROVED (2026-10-09)
+Investigate the competing purposes of education: knowledge, personal development, employment, citizenship, social development, economic development, culture, equity, well-being, and lifelong learning. Approved as a conceptual foundation; evidence gaps and open questions remain documented for later research. No final hierarchy or system design has been approved.
 
 ## 4. Research Methodology & Evidence Standards
 Define how sources will be selected, evaluated, compared, cited, interpreted, and challenged. Establish standards for distinguishing evidence, interpretation, proposal, and speculation.
