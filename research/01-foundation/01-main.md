@@ -1,11 +1,9 @@
 # Step 1 — Research Question, Objectives & Scope
 
 **Author:** Md. Nafiz  
-**Status:** Draft for research review  
-**Last reviewed:** Initial draft; source archive updated 2026-10-09  
-**Approval:** Pending
-
-> This is a working research draft, not a final statement of the Soren Education System. I will revise it as evidence, criticism, and review improve the research.
+**Status:** Approved by Md. Nafiz on 2026-10-09  
+**Approval basis:** Reviewed by the author one by one  
+**Official research title:** *Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?*
 
 ## 1. Why I am conducting this research
 
@@ -25,11 +23,11 @@ The central problem behind this research is:
 
 I have kept this question broader than “future skills.” It leaves knowledge, human development, work, society, agency, and lifelong learning open for investigation without deciding their relative importance in advance.
 
-### The question that motivates this research
+### Official research title
 
 > **Is our education system actually preparing students for the future, or is it mainly preparing students to pass examinations?**
 
-This question motivates my research, but it does not establish the conclusion. I will examine what examination-oriented systems accomplish well, what they may fail to capture, which other outcomes matter, whether alternatives improve those outcomes, and what trade-offs those alternatives introduce.
+This is the question that motivates the research, not a conclusion assumed in advance. I will examine what examination-oriented systems accomplish well, what they may fail to capture, which other outcomes matter, whether alternatives improve those outcomes, and what trade-offs those alternatives introduce.
 
 ## 3. Secondary research questions
 
@@ -166,6 +164,6 @@ I will follow this sequence:
 
 I will not turn a conclusion into a design requirement merely because it sounds plausible. Major recommendations should be traceable to evidence, interpretation, stated values, and acknowledged trade-offs.
 
-## 10. Current status
+## 10. Approval record
 
-This document is **not approved**. I will revise it after reviewing the source material, considering counterevidence, and challenging the scope and terminology. It will become final only after that review and approval.
+Md. Nafiz reviewed the Step 1 files individually and approved this research scope on **2026-10-09**. This approval closes Step 1's scope gate; it does not mean every source has been fully analysed or that all later findings are predetermined.
