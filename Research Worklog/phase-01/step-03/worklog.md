@@ -29,3 +29,13 @@
 | RW-064 | 09-10-2026, 05:09:24 | sources/phase-01/step-03/SRC-014.md | Added Spence's signaling model and its limits for credential interpretation. |
 | RW-065 | 09-10-2026, 05:09:27 | sources/phase-01/step-03/SRC-015.md | Recorded official NCTB curriculum and assessment records for timeline verification. |
 | RW-066 | 09-10-2026, 05:09:30 | sources/phase-01/step-03/SRC-016.md | Recorded conflicting reports on the proposed education commission and policy change. |
+
+| RW-068 | 09-10-2026, 05:10:24 | research/phase-01/step-03/main.md | Clarified reform-body history and added current government's stated plans. |
+| RW-069 | 09-10-2026, 05:10:26 | research/phase-01/step-03/step-plan.md | Distinguished broad commissions from specialized reform committees. |
+| RW-070 | 09-10-2026, 05:10:28 | research/phase-01/step-03/source-map.md | Added primary and secondary committee evidence to source mapping. |
+| RW-071 | 09-10-2026, 05:10:30 | research/phase-01/step-03/review-log.md | Updated factual caution after finding separate reform committees. |
+| RW-072 | 09-10-2026, 05:10:32 | sources/source-register.md | Indexed the 2025–2026 reform committee and curriculum-plan sources. |
+| RW-073 | 09-10-2026, 05:10:35 | sources/phase-01/step-03/SRC-016.md | Distinguished broad commission reporting from specialized committees. |
+| RW-074 | 09-10-2026, 05:10:41 | sources/phase-01/step-03/SRC-017.md | Added official secondary and higher-secondary review committee report. |
+| RW-075 | 09-10-2026, 05:10:43 | sources/phase-01/step-03/SRC-018.md | Recorded the primary and non-formal education advisory committee. |
+| RW-076 | 09-10-2026, 05:10:45 | sources/phase-01/step-03/SRC-019.md | Recorded current government's publicly stated curriculum reform plan. |
