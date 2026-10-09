@@ -1,22 +1,12 @@
 # Research Methods
 
-This directory contains the methodological rules used across the research.
+This directory contains approved methods that are applied across the research. Step-specific methods remain versioned in `research/phase-NN/step-NN/`.
 
-The core workflow is:
+**Workflow:** Research → Discuss → Review → Revise → Approve → Commit → Continue.
 
-**Research → Discuss → Review → Revise → Approve → Commit → Continue**
+Core distinctions: normative vs empirical claim; source statement vs interpretation; evidence vs inference; association vs causation; intent vs adoption vs implementation vs outcome; local evidence vs international transfer; recommendation vs finding.
 
-The methodology must be established before the project begins making major design claims.
+## Approved protocols
+- [Step 4 — Operational Evidence Synthesis Protocol](step-04-evidence-synthesis-protocol.md): construct definitions, search records, source appraisal, evidence threshold, statistics trace-to-origin, adversarial review, normative disagreement, synthesis choice, traceability, and ethics gate.
 
-Key distinctions:
-
-- normative claim vs empirical claim;
-- source statement vs our interpretation;
-- evidence vs inference;
-- association vs causation;
-- framework vs demonstrated intervention effect;
-- local evidence vs international generalisation;
-- current condition vs forecast;
-- recommendation vs research finding.
-
-The final education-system proposal must be traceable backward to evidence and explicit design reasoning.
+The protocol is a working standard, not proof that any future search has already complied. Each substantive step must record its application.
