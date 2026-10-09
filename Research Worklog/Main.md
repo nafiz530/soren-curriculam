@@ -106,3 +106,33 @@
 | RW-097 | 09-10-2026, 05:29:25 | Research Worklog/phase-01/step-04/worklog.md | Create Step 4 detailed worklog |
 | RW-098 | 09-10-2026, 05:29:42 | sources/source-register.md | Fix Step 4 source-register row formatting |
 | RW-099 | 09-10-2026, 05:29:48 | Research Worklog/phase-01/step-04/worklog.md | Log source-register formatting correction |
+| RW-100 | 09-10-2026, 10:08:00 UTC | research/phase-01/step-04/main.md | Incorporate construct operationalization, adversarial review, funding/publication bias, gray literature, translation, and statistics trace-to-origin. |
+| RW-101 | 09-10-2026, 10:08:03 UTC | research/phase-01/step-04/main.md | Finalize taxonomy, normative adjudication, systematic-review trigger, repository artifact map, proportional traceability, and approved status. |
+| RW-102 | 09-10-2026, 10:08:06 UTC | research/phase-01/step-04/step-plan.md | Incorporate operational artifacts, claim-relative evidence threshold, and adversarial review requirements. |
+| RW-103 | 09-10-2026, 10:08:09 UTC | research/phase-01/step-04/step-plan.md | Finalize expert-judgment label and explicit approval record. |
+| RW-104 | 09-10-2026, 10:08:12 UTC | research/phase-01/step-04/source-map.md | Map external-validity, realist synthesis, narrative synthesis, appraisal, and measurement sources. |
+| RW-105 | 09-10-2026, 10:08:15 UTC | research/phase-01/step-04/source-map.md | Correct formatting and replace answered open questions with remaining application tasks. |
+| RW-106 | 09-10-2026, 10:08:18 UTC | research/phase-01/step-04/review-log.md | Record approval, all required amendments, source checks, and Step 3 carry-forward obligations. |
+| RW-107 | 09-10-2026, 10:08:21 UTC | methods/step-04-evidence-synthesis-protocol.md | Create operational search, appraisal, synthesis, threshold, ethics, and traceability protocol. |
+| RW-108 | 09-10-2026, 10:08:24 UTC | evidence/phase-01/step-04/evidence-table-template.md | Create minimum claim-source evidence table schema. |
+| RW-109 | 09-10-2026, 10:08:27 UTC | evidence/phase-01/step-04/search-log-template.md | Create search metadata, query, screening, and coverage template. |
+| RW-110 | 09-10-2026, 10:08:30 UTC | decisions/DEC-004-001-evidence-threshold.md | Record approved claim-relative threshold for established evidence. |
+| RW-111 | 09-10-2026, 10:08:33 UTC | decisions/DEC-004-002-constructs-and-adversarial-review.md | Record construct definitions, devil's-advocate review, and normative adjudication rules. |
+| RW-112 | 09-10-2026, 10:08:36 UTC | sources/phase-01/step-04/SRC-024.md | Record Cartwright and Hardie's transferability and causal-context argument. |
+| RW-113 | 09-10-2026, 10:08:39 UTC | sources/phase-01/step-04/SRC-025.md | Record Pawson's realist synthesis methodology and limits. |
+| RW-114 | 09-10-2026, 10:08:42 UTC | sources/phase-01/step-04/SRC-026.md | Record Pawson and Tilley's realistic evaluation framework. |
+| RW-115 | 09-10-2026, 10:08:45 UTC | sources/phase-01/step-04/SRC-027.md | Record Slavin's best-evidence synthesis methodology. |
+| RW-116 | 09-10-2026, 10:08:48 UTC | sources/phase-01/step-04/SRC-028.md | Record Popay et al. narrative synthesis guidance. |
+| RW-117 | 09-10-2026, 10:08:51 UTC | sources/phase-01/step-04/SRC-029.md | Record Gough, Oliver, and Thomas systematic-review methods text. |
+| RW-118 | 09-10-2026, 10:08:54 UTC | sources/phase-01/step-04/SRC-030.md | Record CASP appraisal checklists and scope limits. |
+| RW-119 | 09-10-2026, 10:08:57 UTC | sources/phase-01/step-04/SRC-031.md | Record MMAT 2018 and mixed-method appraisal limits. |
+| RW-120 | 09-10-2026, 10:09:00 UTC | sources/phase-01/step-04/SRC-032.md | Record ROBIS risk-of-bias tool for systematic reviews. |
+| RW-121 | 09-10-2026, 10:09:03 UTC | sources/phase-01/step-04/SRC-033.md | Record AMSTAR 2 and healthcare-specific scope limits. |
+| RW-122 | 09-10-2026, 10:09:06 UTC | sources/phase-01/step-04/SRC-034.md | Record Koretz's work on educational test-score interpretation. |
+| RW-123 | 09-10-2026, 10:09:09 UTC | sources/source-register.md | Register methodology sources SRC-024 through SRC-034 and update archive notes. |
+| RW-124 | 09-10-2026, 10:09:12 UTC | methods/README.md | Index the approved Step 4 operational protocol. |
+| RW-125 | 09-10-2026, 10:09:15 UTC | evidence/phase-01/README.md | Index Step 4 evidence table and search log templates. |
+| RW-126 | 09-10-2026, 10:09:18 UTC | decisions/README.md | Index the Step 4 evidence-threshold and construct/adversarial-review decisions. |
+| RW-127 | 09-10-2026, 10:09:21 UTC | research/00-research-roadmap.md | Mark Step 4 approved and preserve Step 3 unresolved questions as active roadmap obligations. |
+| RW-128 | 09-10-2026, 10:09:24 UTC | README.md | Document approval status and the distinct sources/evidence/methods/decisions repository folders. |
+| RW-129 | 09-10-2026, 10:09:27 UTC | Research Worklog/phase-01/step-04/worklog.md | Record amendment and artifact creation work in the detailed Step 4 ledger. |
