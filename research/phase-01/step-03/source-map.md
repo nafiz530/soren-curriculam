@@ -16,7 +16,10 @@
 | SRC-005 — UNICEF, *Education Strategy 2026: Shaping the Future of Learning* | How does a current global child-focused institution frame priorities? | UNICEF's stated priorities around learning, equity, skills, and system transformation. | Independent proof that the strategy or particular interventions cause specific outcomes. |
 | SRC-007 — Bangladesh National Education Policy 2010 | What purposes and commitments did Bangladesh formally state? | Primary source for declared aims, once exact language is checked against the archived policy. | Proof of implementation, present-day legal status, or achievement of policy aims. |
 | SRC-015 — NCTB curriculum pages and revised documents | What curriculum and assessment changes are officially documented after 2023? | Officially published curriculum versions, revisions, textbooks, and assessment guidance with dates. | By itself, a complete history of implementation or a replacement national education policy. |
-| SRC-016 — Reports on the proposed education policy/commission (Dec 2024–Jan 2025) | What did public reporting say about reform plans? | Evidence that different public statements were reported at different dates. | Proof that a commission was legally constituted or that a replacement policy was adopted; primary records are needed. |
+| SRC-016 — Reports on the proposed broad education policy/commission (2024–2025) | What did public reporting say about a sector-wide commission? | Evidence of announcements, later statements, and reports that no broad commission was constituted during the interim government's first year. | Proof that no education reform bodies existed; specialized committees must be recorded separately. |
+| SRC-017 — Ministry of Education review committee report on secondary/higher-secondary education (Feb 2026) | What reform work occurred for secondary education? | Officially published vision and recommendations from a review committee. | Proof that every recommendation was adopted or implemented. |
+| SRC-018 — Primary and Non-Formal Education Reform Advisory Committee report (Feb 2025) | What reform work occurred for primary/non-formal education? | Reporting on the committee's submitted recommendations and scope. | Proof of implementation or that a comprehensive national education commission existed. |
+| SRC-019 — BSS reporting on 2026 curriculum-reform plans | What current government plans have been publicly stated? | Dated reporting of plans for curriculum redesign and new subjects. | Proof that the proposed curriculum or policy has been formally adopted or implemented. |
 
 ## Claim-to-source traceability
 
@@ -30,7 +33,7 @@
 | Future-oriented frameworks include agency, well-being, knowledge, skills, attitudes, and values. | SRC-003 | Framework description | Accurate description of OECD framing; not a validated universal checklist. |
 | Bangladesh's National Education Policy 2010 is relevant evidence of stated national aims. | SRC-007 | Policy interpretation | Exact aims table is provisional until checked against the primary text. |
 | NCTB published revised curriculum and assessment materials for 2025–2026. | SRC-015 | Official-document description | Strong for document publication; does not alone establish classroom implementation or effectiveness. |
-| The interim government's education-reform-commission status is unclear in the sources located. | SRC-016; official NCTB archive | Dated status assessment | Reports conflict; do not claim formal establishment without a primary government record. |
+| The status of a broad education-sector reform commission differs from the documented work of specialized reform bodies. | SRC-016–SRC-018 | Dated status assessment | Sources indicate no broad commission was constituted in the interim government's first year, while separate committees did produce recommendations/reports. |
 | Curriculum and historical content should not be rewritten merely for partisan branding, while evidence-led revision remains possible. | Author's provisional normative commitment, informed by research purpose | Normative proposal | Not an empirical finding; requires governance, rights, and curriculum scholarship. |
 | Rights and dignity should constrain educational design, while certification must be preserved or credibly replaced. | Normative reasoning; SRC-012–014 inform certification problem | Provisional design commitments | Requires further legal, ethical, empirical, and Bangladesh-specific testing. |
 | Educational policy statements do not prove implementation or outcomes. | Research evidence standard | Methodological principle | Maintain throughout the project. |
@@ -38,11 +41,11 @@
 ## Evidence gaps and next-source priorities
 
 1. Verify the National Education Policy 2010 aims directly against the archived primary document and refine the mapping table.
-2. Locate primary official records for the 2012 NCTB revision, National Curriculum Framework 2021, the rollout by grade from 2023, subsequent reversals or revisions, and any formal education commission or advisory body after August 2024.
+2. Locate primary official records for the 2012 NCTB revision, National Curriculum Framework 2021, the rollout by grade from 2023, subsequent revisions, the primary reform advisory committee, the secondary/higher-secondary review committee, and any broad education commission or advisory body after August 2024.
 3. Add Bangladesh-specific studies on SSC/HSC examination washback, coaching and shadow education, GPA/grade incentives, question leakage where documented, and the effects of curriculum changes on teachers and learners.
 4. Engage Amartya Sen's capability approach, Fred Hirsch on positional goods, Randall Collins on credentialism, and scholarship on powerful knowledge, moral/spiritual education, and ecological education.
 5. Read the original works rather than relying on short summaries where a claim materially affects a design decision.
-6. Add evidence on governance safeguards and the effects of partisan influence on curriculum and historical narratives without assuming intent from chronology alone.
+6. Add evidence on governance safeguards and the effects of partisan influence on curriculum and historical narratives without assuming intent from chronology alone. Track the current government's proposed 2028 curriculum redesign as a plan until formal approval and implementation are documented.
 7. Keep stated policy, curriculum design, implementation, learner outcomes, and causal explanation as separate claim types.
 
 ## Traceability rule
