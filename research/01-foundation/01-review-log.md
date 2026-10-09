@@ -3,21 +3,20 @@
 | Version | Date | Status | Review activity | Result |
 |---|---|---|---|---|
 | v0.1 | 2026-10-08 | Draft | Initial framing created from roadmap and first source scan | Pending source review |
-| v0.2 | 2026-10-09 | Revised draft | Checked the repository's source archive and revised the Step 1 manuscript and plan to use Md. Nafiz's authorial voice | Six source PDFs and the Learning Poverty workbook are archived; SRC-002's OECD concept-note PDF remains missing. Independent counterevidence review is still pending |
-| v0.3 | — | — | Scope and terminology revision after source review and counterevidence | Pending |
-| v1.0 | — | — | User approval after research review | Pending |
+| v0.2 | 2026-10-09 | Revised draft | Source archive checked; main manuscript and plan revised to use Md. Nafiz's authorial voice | Source collection status documented; OECD concept-note PDF remains missing |
+| v1.0 | 2026-10-09 | **Approved by Md. Nafiz** | Author reviewed the Step 1 files individually and approved the scope | Step 1 scope gate closed; research proceeds to Step 2 |
 
-## Open issues
+## Open issues carried forward
 
-1. What should be the exact final wording of the central research question?
-2. Should "future" remain in the central wording, or should it be framed as adaptability under uncertainty?
-3. Which educational stages can be responsibly covered in one coherent model?
-4. What should count as a successful education system?
-5. How should normative goals be separated from measurable outcomes?
-6. How much Bangladesh-specific design should be included versus a globally transferable model?
-7. Which competing theories of educational purpose need dedicated treatment in Step 2 and Step 3?
-8. What does the full OECD Learning Compass 2030 concept-note source add, and which critical perspectives should be included to balance institutional frameworks?
+1. Exact definitions of education, learning, schooling, and related terms will be examined in Step 2.
+2. The scope and meaning of “future” will remain open to evidence and discussion rather than being prematurely narrowed.
+3. Educational stages and age boundaries will be investigated in later steps.
+4. The meaning of a successful education system will be developed across the research.
+5. Normative goals will be distinguished from measurable outcomes.
+6. Bangladesh will remain the primary contextual case, with international evidence assessed for transferability.
+7. Competing theories of educational purpose will be investigated in Step 3.
+8. The missing OECD Learning Compass concept-note PDF and additional critical sources remain collection/research tasks.
 
-## Review rule
+## Approval rule
 
-A change to the research question should be recorded here when evidence materially changes the framing. Draft revisions and archive updates do not count as approval of the research question or final scope.
+The approval above applies to the Step 1 scope document and research direction. It does not imply that all sources have been fully analysed, that the main research question has been answered, or that the final proposed education system has been approved.
