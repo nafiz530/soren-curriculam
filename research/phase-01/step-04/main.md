@@ -81,8 +81,9 @@ The project uses the following labels:
 | Normative argument | A reasoned claim about what should matter or what ought to be done | An empirical claim that something works |
 | Research-backed recommendation | A proposal supported by evidence and an explicit rationale, with limitations stated | A guaranteed outcome |
 | Design choice | A decision selected for the proposed system, including values and constraints | A scientific discovery |
+| Expert judgment | A clearly attributed, context-specific judgement from a person with relevant practical or scholarly experience, where direct research is absent or incomplete | Representative evidence, a verified causal finding, or consensus merely because the person is experienced |
 | Hypothesis | A testable proposition not yet adequately established | A confirmed finding |
-| Speculation | A possibility with insufficient current support for a firmer label | A conclusion fit to guide major policy alone |
+| Speculation | A possibility with insufficient current support for a firmer label | A conclusion that is adequately supported or suitable as the sole basis for a major policy decision |
 
 A recommendation may be reasonable even when evidence is incomplete, but its uncertainty and value assumptions must be explicit. Equally, a finding may be strong while leaving the normative question unresolved. For example, evidence about how an assessment affects behaviour can inform whether it is desirable; it cannot alone decide what educational purposes should take priority.
 
@@ -174,18 +175,25 @@ I will use these rules throughout the research unless later evidence or a docume
 
 These commitments make the research more accountable; they do not guarantee neutrality, exhaustiveness, or correctness.
 
-## 11. Open questions for later research
+### 10.1 When a formal systematic review is required
 
-1. Which research databases and Bangla-language repositories should be prioritized for each later topic?
-2. What practical threshold will distinguish a source that is merely relevant from one strong enough to support a major recommendation?
-3. When should a topic receive a formal systematic review rather than a structured evidence synthesis?
-4. How should the project document searches that cannot be reproduced exactly because a platform changes or access is limited?
-5. What local ethical and institutional approvals would be required before gathering original data from Bangladeshi students or teachers?
-6. How should conflicting evidence be summarized when studies use incompatible measures?
-7. Which independent reviewers or subject experts could later challenge high-impact conclusions?
+I will consider a formal systematic review when all three conditions apply: the question is causal or comparative; a substantial body of directly relevant studies plausibly exists; and the answer would drive a major design decision. The effect of high-stakes examinations on teaching practice in South Asia is a candidate. Conceptual and policy-document history questions do not automatically require a systematic review. If access or resources make one infeasible, I will document the limitation and conduct a structured synthesis without overstating completeness.
 
-These questions do not all need answers before this draft can be reviewed. They should be resolved when they materially affect the next research task or a major conclusion.
+### 10.2 Independent challenge
+
+For high-impact domains, I will seek subject-expert review where feasible (for example, assessment, Bangladesh education policy, and curriculum theory), practitioner review for feasibility, and the required devil's-advocate pass. A public repository invites critique but does not itself guarantee independent review. AI-assisted tools may check traceability and consistency but cannot be the sole substantive reviewer.
+
+## 11. Operational artifacts and remaining application tasks
+
+The approved operational protocol and templates are maintained in:
+- `methods/step-04-evidence-synthesis-protocol.md`;
+- `evidence/phase-01/step-04/evidence-table-template.md`;
+- `evidence/phase-01/step-04/search-log-template.md`;
+- `decisions/DEC-004-001-evidence-threshold.md`;
+- `decisions/DEC-004-002-constructs-and-adversarial-review.md`.
+
+Before title-level synthesis, I must define both central constructs and record how each included study matches them. Before any human-subjects research, I must verify applicable school, guardian, institutional, ethical, and legal permissions. Domain reviewers should be identified where feasible for high-impact conclusions. These are application obligations, not reasons to leave the working standard unapproved.
 
 ## 12. Current status
 
-This is a draft for review. It proposes a transparent, claim-sensitive method for the research; it does not claim that the entire project has already followed a complete systematic-review protocol. Step 4 remains pending until I review and approve the method.
+Step 4 is **approved as the project's working evidence standard**, with the amendments from the 2026-10-09 review incorporated before first application. Approval does not mean later searches are complete, that every operational construct has already been finalized, or that the project has conducted a systematic review.
