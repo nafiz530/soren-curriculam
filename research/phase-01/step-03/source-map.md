@@ -1,6 +1,6 @@
 # Step 3 Source Map — What Is Education For?
 
-**Status:** Revised draft — review pending  
+**Status:** Approved for current research stage (09-10-2026)  
 **Manuscript:** research/phase-01/step-03/main.md
 
 ## Source-to-question map
