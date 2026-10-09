@@ -17,3 +17,4 @@
 | RW-094 | 09-10-2026, 05:29:08 | sources/source-register.md | Added methodology and research-ethics sources SRC-020 through SRC-023. |
 | RW-095 | 09-10-2026, 05:29:11 | README.md | Updated the repository overview to reflect Step 4 as the current step. |
 | RW-096 | 09-10-2026, 05:29:19 | research/00-research-roadmap.md | Marked Step 4 in progress and retained pending review status. |
+| RW-098 | 09-10-2026, 05:29:42 | sources/source-register.md | Corrected line breaks in the SRC-020–SRC-023 register rows. |
