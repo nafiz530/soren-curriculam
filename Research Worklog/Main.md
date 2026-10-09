@@ -144,3 +144,26 @@
 | RW-135 | 09-10-2026, 10:09:45 UTC | evidence/phase-01/README.md | Link the Step 4 methodological evidence synthesis note. |
 | RW-136 | 09-10-2026, 10:09:48 UTC | Research Worklog/phase-01/step-04/worklog.md | Log final Step 4 evidence note, source-map, plan, and manuscript edits. |
 | RW-137 | 09-10-2026, 10:09:51 UTC | research/phase-01/step-04/step-plan.md | Add links to the approved protocol, evidence note/templates, decision records, source records, and worklogs. |
+
+| RW-138 | 09-10-2026, 16:07:08 UTC | sources/phase-01/step-04/SRC-035.md | Record SSC English washback study |
+| RW-139 | 09-10-2026, 16:07:11 UTC | sources/phase-01/step-04/SRC-036.md | Record contextual washback mechanisms |
+| RW-140 | 09-10-2026, 16:07:13 UTC | sources/phase-01/step-04/SRC-037.md | Record historical English tutoring survey |
+| RW-141 | 09-10-2026, 16:07:16 UTC | sources/phase-01/step-04/SRC-038.md | Record tutoring inequality interviews |
+| RW-142 | 09-10-2026, 16:07:18 UTC | sources/phase-01/step-04/SRC-039.md | Record ADB tutoring intervention evidence |
+| RW-143 | 09-10-2026, 16:08:18 UTC | research/phase-01/step-04/application-01-credential-pressure/step-plan.md | Plan bounded method application |
+| RW-144 | 09-10-2026, 16:08:21 UTC | research/phase-01/step-04/application-01-credential-pressure/main.md | Draft multi-mechanism synthesis |
+| RW-145 | 09-10-2026, 16:08:24 UTC | research/phase-01/step-04/application-01-credential-pressure/source-map.md | Map source fit and limitations |
+| RW-146 | 09-10-2026, 16:08:26 UTC | research/phase-01/step-04/application-01-credential-pressure/review-log.md | Record initial adversarial review |
+| RW-147 | 09-10-2026, 16:08:29 UTC | evidence/phase-01/step-04/EV-004-002-credential-pressure-pilot.md | Create preliminary evidence note |
+| RW-148 | 09-10-2026, 16:08:32 UTC | decisions/DEC-004-003-method-application-sequencing.md | Log pilot sequencing decision |
+| RW-149 | 09-10-2026, 16:08:47 UTC | sources/phase-01/step-04/SRC-039.md | Correct ADB report URL |
+| RW-150 | 09-10-2026, 16:09:05 UTC | sources/source-register.md | Register pilot sources SRC-035–039 |
+| RW-151 | 09-10-2026, 16:09:08 UTC | evidence/phase-01/README.md | Index draft credential-pressure evidence |
+| RW-152 | 09-10-2026, 16:09:11 UTC | decisions/README.md | Index sequencing decision |
+| RW-153 | 09-10-2026, 16:09:15 UTC | research/00-research-roadmap.md | Link pilot without renumbering Step 5 |
+| RW-154 | 09-10-2026, 16:09:18 UTC | README.md | Document current draft application |
+| RW-155 | 09-10-2026, 16:09:37 UTC | data/searches/2026-10-09/credential-pressure-pilot.md | Log queries, screening, and search gaps |
+| RW-156 | 09-10-2026, 16:09:44 UTC | research/phase-01/step-04/application-01-credential-pressure/source-map.md | Link dedicated search log |
+| RW-157 | 09-10-2026, 16:09:47 UTC | research/phase-01/step-04/application-01-credential-pressure/step-plan.md | Link search log in plan |
+| RW-158 | 09-10-2026, 16:09:50 UTC | research/phase-01/step-04/review-log.md | Record first method application as draft |
+| RW-159 | 09-10-2026, 16:10:06 UTC | Research Worklog/phase-01/step-04/worklog.md | Log application files and source/index updates |
