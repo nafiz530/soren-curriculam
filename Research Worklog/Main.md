@@ -136,3 +136,10 @@
 | RW-127 | 09-10-2026, 10:09:21 UTC | research/00-research-roadmap.md | Mark Step 4 approved and preserve Step 3 unresolved questions as active roadmap obligations. |
 | RW-128 | 09-10-2026, 10:09:24 UTC | README.md | Document approval status and the distinct sources/evidence/methods/decisions repository folders. |
 | RW-129 | 09-10-2026, 10:09:27 UTC | Research Worklog/phase-01/step-04/worklog.md | Record amendment and artifact creation work in the detailed Step 4 ledger. |
+| RW-130 | 09-10-2026, 10:09:30 UTC | research/phase-01/step-04/source-map.md | Fix source-map formatting and clarify remaining application tasks after approval. |
+| RW-131 | 09-10-2026, 10:09:33 UTC | research/phase-01/step-04/main.md | Finalize provisional commitments and approved-status language. |
+| RW-132 | 09-10-2026, 10:09:36 UTC | research/phase-01/step-04/step-plan.md | Clarify that protocol questions are future application tasks, not approval blockers. |
+| RW-133 | 09-10-2026, 10:09:39 UTC | research/phase-01/step-04/step-plan.md | Clarify approved working design and future-research question status. |
+| RW-134 | 09-10-2026, 10:09:42 UTC | evidence/phase-01/step-04/EV-004-001-methods-source-synthesis.md | Add methodological evidence note synthesizing sources SRC-020–SRC-034 and ethics guidance. |
+| RW-135 | 09-10-2026, 10:09:45 UTC | evidence/phase-01/README.md | Link the Step 4 methodological evidence synthesis note. |
+| RW-136 | 09-10-2026, 10:09:48 UTC | Research Worklog/phase-01/step-04/worklog.md | Log final Step 4 evidence note, source-map, plan, and manuscript edits. |
