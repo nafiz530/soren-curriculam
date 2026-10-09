@@ -55,3 +55,4 @@
 | RW-134 | 09-10-2026, 10:09:42 UTC | evidence/phase-01/step-04/EV-004-001-methods-source-synthesis.md | Add methodological evidence note synthesizing sources SRC-020–SRC-034 and ethics guidance. |
 | RW-135 | 09-10-2026, 10:09:45 UTC | evidence/phase-01/README.md | Link the Step 4 methodological evidence synthesis note. |
 | RW-136 | 09-10-2026, 10:09:48 UTC | Research Worklog/phase-01/step-04/worklog.md | Log final Step 4 evidence note, source-map, plan, and manuscript edits. |
+| RW-137 | 09-10-2026, 10:09:51 UTC | research/phase-01/step-04/step-plan.md | Add links to the approved protocol, evidence note/templates, decision records, source records, and worklogs. |
