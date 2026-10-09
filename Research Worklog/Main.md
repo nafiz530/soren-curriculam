@@ -92,3 +92,15 @@
 | RW-083 | 09-10-2026, 05:27:19 | research/phase-01/step-03/review-log.md | Record Step 3 approval and open research tasks |
 | RW-084 | 09-10-2026, 05:27:21 | research/00-research-roadmap.md | Update roadmap to Step 3 approved; Step 4 next |
 | RW-085 | 09-10-2026, 05:27:44 | Research Worklog/phase-01/step-03/worklog.md | Record Step 3 approval changes |
+| RW-086 | 09-10-2026, 05:28:42 | research/phase-01/step-04/step-plan.md | Create Step 4 methodology plan |
+| RW-087 | 09-10-2026, 05:28:45 | research/phase-01/step-04/main.md | Draft Step 4 evidence standards |
+| RW-088 | 09-10-2026, 05:28:48 | research/phase-01/step-04/source-map.md | Map Step 4 sources and claims |
+| RW-089 | 09-10-2026, 05:28:51 | research/phase-01/step-04/review-log.md | Create Step 4 review record |
+| RW-090 | 09-10-2026, 05:28:53 | sources/phase-01/step-04/SRC-020.md | Record PRISMA 2020 source |
+| RW-091 | 09-10-2026, 05:28:56 | sources/phase-01/step-04/SRC-021.md | Record WWC methodology source |
+| RW-092 | 09-10-2026, 05:28:58 | sources/phase-01/step-04/SRC-022.md | Record Magenta Book evaluation guidance |
+| RW-093 | 09-10-2026, 05:29:01 | sources/phase-01/step-04/SRC-023.md | Record AERA research ethics code |
+| RW-094 | 09-10-2026, 05:29:08 | sources/source-register.md | Register Step 4 methodology sources |
+| RW-095 | 09-10-2026, 05:29:11 | README.md | Update current research-step pointer |
+| RW-096 | 09-10-2026, 05:29:19 | research/00-research-roadmap.md | Mark Step 4 in progress |
+| RW-097 | 09-10-2026, 05:29:25 | Research Worklog/phase-01/step-04/worklog.md | Create Step 4 detailed worklog |
