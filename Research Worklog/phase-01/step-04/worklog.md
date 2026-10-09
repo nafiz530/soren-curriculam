@@ -78,3 +78,14 @@
 | RW-156 | 09-10-2026, 16:09:44 UTC | research/phase-01/step-04/application-01-credential-pressure/source-map.md | Link the dedicated discovery-search record. |
 | RW-157 | 09-10-2026, 16:09:47 UTC | research/phase-01/step-04/application-01-credential-pressure/step-plan.md | Link search log to planned application artifacts. |
 | RW-158 | 09-10-2026, 16:09:50 UTC | research/phase-01/step-04/review-log.md | Record method application as open draft, not approved conclusion. |
+
+| RW-160 | 09-10-2026, 16:10:49 UTC | sources/phase-01/step-04/SRC-040.md | Record mixed-methods Bangladesh study of examination-system effects. |
+| RW-161 | 09-10-2026, 16:10:51 UTC | sources/phase-01/step-04/SRC-041.md | Record Collins's credentialism and occupational-stratification framework. |
+| RW-162 | 09-10-2026, 16:10:54 UTC | sources/phase-01/step-04/SRC-042.md | Record Hirsch's positional-goods framework and transfer limits. |
+| RW-163 | 09-10-2026, 16:11:12 UTC | sources/source-register.md | Register SRC-040–042 and update pilot source-range notes. |
+| RW-164 | 09-10-2026, 16:11:16 UTC | research/phase-01/step-04/application-01-credential-pressure/main.md | Integrate local mixed-methods evidence and distinguish three theories. |
+| RW-165 | 09-10-2026, 16:11:31 UTC | research/phase-01/step-04/application-01-credential-pressure/source-map.md | Map credentialism, positional competition, and broader local evidence. |
+| RW-166 | 09-10-2026, 16:11:34 UTC | evidence/phase-01/step-04/EV-004-002-credential-pressure-pilot.md | Add broader Bangladesh examination evidence and theory comparison. |
+| RW-167 | 09-10-2026, 16:11:38 UTC | research/phase-01/step-04/application-01-credential-pressure/review-log.md | Update devil's-advocate pass and outstanding appraisal tasks. |
+| RW-168 | 09-10-2026, 16:11:42 UTC | data/searches/2026-10-09/credential-pressure-pilot.md | Record Collins, Hirsch, and local examination-system searches. |
+| RW-169 | 09-10-2026, 16:12:02 UTC | research/phase-01/step-04/application-01-credential-pressure/main.md | Correct synthesis language after adding mixed-methods study. |
