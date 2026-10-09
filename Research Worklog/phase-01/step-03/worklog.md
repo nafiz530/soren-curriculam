@@ -18,3 +18,14 @@
 | RW-054 | 09-10-2026, 04:47:51 | Research Worklog/phase-01/step-03/worklog.md | Created this detailed Step 3 worklog. |
 | RW-055 | 09-10-2026, 04:48:03 | sources/source-register.md | Updated the master register to document Step 3-specific source records. |
 | RW-056 | 09-10-2026, 04:48:05 | research/00-research-roadmap.md | Marked Step 3 in progress while leaving author approval pending. |
+
+| RW-057 | 09-10-2026, 05:09:00 | research/phase-01/step-03/main.md | Expanded the chapter with credential functions, Bangladesh policy history, and cross-party continuity principles. |
+| RW-058 | 09-10-2026, 05:09:02 | research/phase-01/step-03/step-plan.md | Added research questions on credentials, political continuity, and curriculum chronology. |
+| RW-059 | 09-10-2026, 05:09:04 | research/phase-01/step-03/source-map.md | Mapped Dore, Biesta, Spence, NCTB records, and reform-status uncertainty. |
+| RW-060 | 09-10-2026, 05:09:07 | research/phase-01/step-03/review-log.md | Logged review feedback, revisions, factual cautions, and unresolved questions. |
+| RW-061 | 09-10-2026, 05:09:09 | sources/source-register.md | Added scholarly and Bangladesh curriculum/reform sources to the master register. |
+| RW-062 | 09-10-2026, 05:09:20 | sources/phase-01/step-03/SRC-012.md | Added Dore's credential-competition source record and use limitations. |
+| RW-063 | 09-10-2026, 05:09:23 | sources/phase-01/step-03/SRC-013.md | Added Biesta's educational-purpose framework and interpretive cautions. |
+| RW-064 | 09-10-2026, 05:09:24 | sources/phase-01/step-03/SRC-014.md | Added Spence's signaling model and its limits for credential interpretation. |
+| RW-065 | 09-10-2026, 05:09:27 | sources/phase-01/step-03/SRC-015.md | Recorded official NCTB curriculum and assessment records for timeline verification. |
+| RW-066 | 09-10-2026, 05:09:30 | sources/phase-01/step-03/SRC-016.md | Recorded conflicting reports on the proposed education commission and policy change. |
