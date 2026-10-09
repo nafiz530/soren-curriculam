@@ -91,14 +91,15 @@ Search beyond sources that support the initial interpretation. Use reference lis
 
 Every material claim or conclusion should be classifiable as one of the following:
 
-- **Established evidence:** directly supported by reliable, sufficiently relevant evidence, with the scope stated accurately.
-- **Finding:** a result reported by a source or derived transparently from data.
+- **Established evidence:** meets the claim-relative threshold in the Step 4 manuscript and has scope/counterevidence recorded.
+- **Finding:** a result reported by a source or transparently derived from data.
 - **Interpretation:** my explanation of what a finding may mean.
 - **Normative argument:** a reasoned claim about what should be valued, permitted, or prioritized.
-- **Research-backed recommendation:** a recommendation supported by evidence and an explicit rationale, while still open to uncertainty and trade-offs.
-- **Design choice:** a decision selected for the proposed system, including any value judgement or practical constraint behind it.
+- **Research-backed recommendation:** a recommendation supported by evidence and explicit rationale, with uncertainty and trade-offs.
+- **Design choice:** a decision selected for the proposed system, including value judgement or practical constraint.
+- **Expert judgment:** attributed, context-specific judgement from relevant practical or scholarly experience, without implying representative evidence.
 - **Hypothesis:** a proposition that could be tested but has not yet been adequately established.
-- **Speculation:** a possibility for which the present basis is too weak to support a firmer claim.
+- **Speculation:** a possibility with insufficient support for a firmer claim.
 
 Do not upgrade a hypothesis into a finding through repetition. Do not call a design choice “evidence-based” unless the evidence-to-decision reasoning is made visible.
 
@@ -173,6 +174,6 @@ For every high-impact conclusion, log the strongest opposing case, supporting ev
 
 Use the established-evidence threshold: two independent lines of evidence or one high-quality closely matched study, plus a documented search for credible counterevidence. Major recommendations require the complete traceability chain. Normative disagreements must state value premises, counterarguments, the researcher's weights, and the Step 3 evaluation criteria.
 
-## Approval gate
+## Approval record
 
-Step 4 is ready for review when the protocol is practical for a student-led project, matches methods to question types, makes source appraisal and uncertainty explicit, includes ethical safeguards, and avoids claiming systematic-review completeness without evidence. It remains approved as the working standard, with the review amendments incorporated. Approval is not evidence that later applications have already met the standard.
+**Approved by Md. Nafiz on 2026-10-09** as the project's working evidence standard, with the required amendments incorporated before first application. Approval does not mean that subsequent searches are complete or that the project has conducted a systematic review. The protocol must be applied and documented in each substantive research step.
