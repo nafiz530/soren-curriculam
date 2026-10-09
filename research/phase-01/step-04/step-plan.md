@@ -15,7 +15,7 @@ This step establishes the method for the project. It does not claim that the pro
 
 > How can I conduct and document a transparent, critical, context-sensitive investigation of education that distinguishes what sources establish from what I infer, value, recommend, or hypothesize?
 
-## Questions to resolve
+## Questions the protocol must answer during later research
 
 1. Which kinds of questions will the project ask, and what evidence is suitable for each?
 2. How will sources be found, recorded, screened, and revisited?
@@ -39,7 +39,7 @@ Use a **structured, transparent, critical evidence synthesis** combining:
 - comparative analysis for similarities, differences, and contextual transferability;
 - evaluation guidance for judging intervention claims and implementation.
 
-This is a proposed design for review, not a claim that every search has been exhaustive. I will call a review “systematic” only if its actual procedures justify that label. PRISMA 2020 is a reporting guideline for systematic reviews, not a universal quality score and not a substitute for good appraisal.
+This is the approved working design, not a claim that every search has been exhaustive. I will call a review “systematic” only if its actual procedures justify that label. PRISMA 2020 is a reporting guideline for systematic reviews, not a universal quality score and not a substitute for good appraisal.
 
 ## Question-to-method matching
 
