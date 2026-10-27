@@ -60,3 +60,4 @@ Step 3's unresolved questions are preserved as active obligations in the central
 - [Second-pass search log](data/searches/2026-10-27/bulk-research-second-pass.md)
 
 These are drafts for one whole-project review, not final or publication-ready.
+- [Step-by-step synthesis for all 40 steps](research/bulk-work/step-by-step-synthesis-01-40.md) — current synthesis, design implications and evidence boundaries for every step.

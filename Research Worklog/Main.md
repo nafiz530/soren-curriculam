@@ -231,3 +231,8 @@
 | RW-212 | 27-10-2026, 15:30:00 UTC | research/bulk-work/complete-research-draft.md | Link the whole-project review pack. |
 | RW-213 | 27-10-2026, 15:30:00 UTC | README.md | Link the whole-project review pack for one-time review. |
 | RW-214 | 27-10-2026, 15:30:00 UTC | research/00-research-roadmap.md | Link the whole-project review pack and record the full-review workflow. |
+
+| RW-215 | 27-10-2026, 15:40:00 UTC | research/bulk-work/step-by-step-synthesis-01-40.md | Complete a first-pass synthesis for all 40 roadmap steps with design implications and evidence boundaries. |
+| RW-216 | 27-10-2026, 15:40:00 UTC | research/bulk-work/complete-research-draft.md | Link the 40-step synthesis supplement. |
+| RW-217 | 27-10-2026, 15:40:00 UTC | README.md | Link the 40-step synthesis supplement. |
+| RW-218 | 27-10-2026, 15:40:00 UTC | research/00-research-roadmap.md | Link the 40-step synthesis supplement for whole-project review. |

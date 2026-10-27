@@ -18,6 +18,8 @@ This is the question the research will investigate, not a conclusion assumed in 
 
 ## Bulk research status
 
+The [step-by-step synthesis supplement](bulk-work/step-by-step-synthesis-01-40.md) provides a first-pass synthesis for every one of the 40 steps, alongside the [whole-project review pack](bulk-work/whole-project-review-pack.md).
+
 The [whole-project review pack](bulk-work/whole-project-review-pack.md) connects the critical evaluation to a proposed developmental system, assessment architecture, implementation and evaluation model. The author requested a whole-project review rather than review gates after every step. The bulk branch remains separate from `main`; this draft is not approved or publication-ready.
 
 ## How This Roadmap Will Be Used

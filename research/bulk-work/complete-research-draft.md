@@ -6,6 +6,10 @@
 **Working branch:** `bulk-research-draft`  
 **Purpose:** Consolidate research across the roadmap so the author can review the whole body of work together. This is not the publishable final manuscript. Later, the research will be reorganized, gaps closed, and the final work assembled after the author's whole-project review.
 
+## Step-by-step synthesis for the whole-project review
+
+The [40-step synthesis supplement](step-by-step-synthesis-01-40.md) develops the current working synthesis, design implication and evidence boundary for every step.
+
 ## Whole-project review pack
 
 The expanded [whole-project review pack](whole-project-review-pack.md) covers the critical evaluation, developmental architecture, assessment model, teacher and equity conditions, implementation, evaluation dashboard, stress tests, all 40 step summaries and remaining evidence priorities. It is the companion document for the author's one-time review.
