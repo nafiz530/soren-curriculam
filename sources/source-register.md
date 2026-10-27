@@ -92,3 +92,12 @@ The repository file is an .xls workbook, not .xlsx. Preserve the actual format u
 | SRC-045 | Arusha & Biswas, “Prevalence of stress, anxiety and depression due to examination in Bangladeshi youths” | Peer-reviewed pilot survey | 2020 | Identified; appraisal pending | Examination-related stress in 210 tertiary-level youths in Dhaka |
 | SRC-046 | “Factors affecting school enrolment and attendance for children with disabilities in Bangladesh” | Peer-reviewed cross-sectional analysis | 2024 | Identified; appraisal pending | MICS 2019 evidence on school attendance among children with disabilities |
 | SRC-047 | Bangladesh Parliament Budget Helpdesk, education budget briefing | Parliamentary budget briefing | FY2024–25 | Identified; primary budget verification pending | Proposed education allocations; not actual expenditure |
+
+| SRC-048 | National Academies of Sciences, Engineering, and Medicine, *How People Learn II* | Consensus report | 2018 | Identified; appraisal pending | Learning, prior knowledge, context, culture, and transfer |
+| SRC-049 | Dunlosky et al., “Improving Students' Learning With Effective Learning Techniques” | Review article | 2013 | Identified; update appraisal pending | Comparative evidence on ten learning techniques |
+| SRC-050 | Carpenter, Pan & Butler, “The Science of Effective Learning With Spacing and Retrieval Practice” | Review article | 2022 | Identified; appraisal pending | Spacing, retrieval practice, and metacognition |
+| SRC-051 | Freeman et al., “Active Learning Increases Student Performance in STEM” | Meta-analysis | 2014 | Identified; population transfer limits recorded | Undergraduate STEM active-learning outcomes |
+| SRC-052 | Mawson & Kang, “The Distributed Practice Effect on Classroom Learning” | Systematic review and meta-analysis | 2025 | Identified; appraisal pending | Applied classroom distributed-practice evidence |
+| SRC-053 | Filges et al., “Small Class Sizes for Improving Student Achievement” | Campbell systematic review | 2018 | Identified; appraisal pending | Class-size reduction and achievement evidence |
+| SRC-054 | Miao & Holmes, UNESCO *Guidance for Generative AI in Education and Research* | International policy guidance | 2023 | Identified; update appraisal pending | Human-centred, age-appropriate and privacy-conscious AI in education |
+| SRC-055 | UNESCO Global Education Monitoring Report, *Technology in Education* | Global monitoring report | 2023 | Identified; appraisal pending | Appropriate use, equity and evidence for educational technology |

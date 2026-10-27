@@ -199,3 +199,13 @@
 | RW-185 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-046.md | Record disability-related school-attendance analysis using MICS 2019. |
 | RW-186 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-047.md | Record parliamentary education budget briefing and verification needs. |
 | RW-187 | 27-10-2026, 15:16:03 UTC | sources/source-register.md | Register SRC-043–047 for bulk research. |
+
+| RW-188 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-048.md | Record National Academies learning synthesis. |
+| RW-189 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-049.md | Record Dunlosky learning-technique review. |
+| RW-190 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-050.md | Record spacing/retrieval review. |
+| RW-191 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-051.md | Record active-learning meta-analysis and population limits. |
+| RW-192 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-052.md | Record 2025 classroom distributed-practice meta-analysis and heterogeneity. |
+| RW-193 | 27-10-2026, 15:16:03 UTC | sources/phase-07/bulk-work/SRC-053.md | Record class-size systematic review. |
+| RW-194 | 27-10-2026, 15:16:03 UTC | sources/phase-09/bulk-work/SRC-054.md | Record UNESCO generative-AI education guidance. |
+| RW-195 | 27-10-2026, 15:16:03 UTC | sources/phase-09/bulk-work/SRC-055.md | Record UNESCO technology-in-education report. |
+| RW-196 | 27-10-2026, 15:16:03 UTC | sources/source-register.md | Register SRC-048–055 for bulk research. |
