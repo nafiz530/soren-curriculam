@@ -182,3 +182,11 @@
 
 | RW-171 | 09-10-2026, 16:12:33 UTC | sources/phase-01/step-04/SRC-039.md | Complete ADB authorship, publication date, and DOI metadata |
 | RW-172 | 09-10-2026, 16:12:42 UTC | Research Worklog/phase-01/step-04/worklog.md | Log ADB source metadata correction |
+
+| RW-173 | 27-10-2026, 15:00:37 UTC | research/phase-01/step-05/step-plan.md | Define Step 5 scope, outcomes, methods, and approval gate. |
+| RW-174 | 27-10-2026, 15:00:41 UTC | research/phase-01/step-05/main.md | Draft evidence-qualified synthesis on how humans learn. |
+| RW-175 | 27-10-2026, 15:00:47 UTC | research/phase-01/step-05/source-map.md | Map learning-science sources, claims, and transfer limits. |
+| RW-176 | 27-10-2026, 15:00:50 UTC | research/phase-01/step-05/review-log.md | Record counterarguments and approval requirements. |
+| RW-177 | 27-10-2026, 15:01:00 UTC | data/searches/2026-10-27/step-05-how-humans-learn.md | Record initial discovery queries and coverage gaps. |
+| RW-178 | 27-10-2026, 15:01:14 UTC | research/00-research-roadmap.md | Mark Step 5 in progress and link draft artifacts. |
+| RW-179 | 27-10-2026, 15:01:19 UTC | README.md | Point project overview to the unapproved Step 5 draft. |
