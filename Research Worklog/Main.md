@@ -209,3 +209,6 @@
 | RW-194 | 27-10-2026, 15:16:03 UTC | sources/phase-09/bulk-work/SRC-054.md | Record UNESCO generative-AI education guidance. |
 | RW-195 | 27-10-2026, 15:16:03 UTC | sources/phase-09/bulk-work/SRC-055.md | Record UNESCO technology-in-education report. |
 | RW-196 | 27-10-2026, 15:16:03 UTC | sources/source-register.md | Register SRC-048–055 for bulk research. |
+
+| RW-197 | 27-10-2026, 15:16:03 UTC | evidence/bulk-work/claims-matrix.md | Create a 28-claim cross-roadmap evidence matrix with source links, provisional status, and verification queue. |
+| RW-198 | 27-10-2026, 15:16:03 UTC | research/bulk-work/complete-research-draft.md | Link consolidated draft to the claim-level traceability matrix. |

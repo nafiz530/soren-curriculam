@@ -395,6 +395,10 @@ These sources support specific portions of the dossier. They are not an exhausti
 25. Zaman & Raqib (2023), disability-inclusive education in ten secondary schools: https://doi.org/10.3329/twjer.v48i1.67545
 26. Bangladesh Parliamentary Budget Helpdesk, education budget briefing (FY2024–25): https://www.parliament.gov.bd/uploads/pages/budget-helpdesk-2024_015940_%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE.pdf
 
+## Claim-level traceability
+
+The companion [bulk evidence-to-claim matrix](../../evidence/bulk-work/claims-matrix.md) records 28 provisional claims, their roadmap coverage, source base, current confidence status, and priority verification tasks. It is a working index, not a final evidence grade.
+
 # Research integrity status
 
 - This is a bulk synthesis draft, not a systematic review.
