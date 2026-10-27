@@ -242,6 +242,14 @@ Formative assessment is useful when information changes what teacher or learner 
 
 A mixed assessment architecture may be appropriate: regular low-stakes diagnostic checks; subject tests that include both knowledge and reasoning; demonstrations or practical tasks where warranted; and moderated certification. Its success depends on teacher training, time, material access, transparent standards, and protections against bias or inflated marks.
 
+### Bangladesh-specific evidence surfaced during the second search pass
+
+A 2020 pilot study of examination-related stress surveyed 210 tertiary-level youths aged 17–25 in Dhaka using an online cross-sectional design and a modified DASS-21. Its sample is small, geographically limited, tertiary-level, and non-probability; it cannot establish prevalence among all Bangladeshi school students or prove that examinations alone caused the reported symptoms. A separate cross-sectional online study of 452 HSC graduates seeking university admission reported substantial depression, anxiety, and stress symptom levels, but the admission-seeking sample and design also limit generalization and causal inference. These studies justify treating student well-being and high-stakes selection as research questions—not using their percentages as national prevalence estimates. Sources: [Arusha & Biswas (2020)](https://doi.org/10.1016/j.childyouth.2020.105254); [admission-seeking students study](https://pubmed.ncbi.nlm.nih.gov/37181689/).
+
+For disability inclusion, a 2024 analysis using Bangladesh MICS 2019 data included 5,024 children with disabilities aged 6–17 and examined factors associated with non-attendance. This is more useful for population-level association than a small convenience sample, but it remains cross-sectional and cannot by itself establish causal effects. A 2025 qualitative study of government primary teachers identifies training and infrastructure barriers; a 2023 secondary-school study used ten schools from Dhaka and Rajshahi selected by convenience. These studies differ in design and population and should not be pooled as though they measure the same outcome. Sources: [MICS-based study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11501013/); [Siddik (2025)](https://doi.org/10.32204/jids.33.3_61); [Zaman & Raqib (2023)](https://doi.org/10.3329/twjer.v48i1.67545).
+
+A Bangladesh parliamentary budget briefing reports FY2024–25 proposed education-sector allocations and distinguishes the proposed budget from revised prior-year allocations. Budget allocation alone is not evidence of actual expenditure, adequate per-student funding, or effectiveness; the final analysis should compare executed spending, price changes, enrollment, distribution, and outcomes. Official budget data are available from the [Ministry of Education's Secondary and Higher Education Division](https://shed.gov.bd/pages/static-pages/694146bea31054345f0fcaeb) and the [Parliament budget briefing](https://www.parliament.gov.bd/uploads/pages/budget-helpdesk-2024_015940_%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE.pdf).
+
 ## Step 30. Examinations, Grades & High-Stakes Decisions — preliminary synthesis
 
 Examinations can measure some knowledge and skills reliably, provide a common signal, and support scalable selection. They can also narrow curriculum, reward coaching, encourage strategic omission, and turn marks into a proxy for personal worth when stakes are high. Whether an exam is harmful depends on its design, stakes, alignment, preparation inequalities, and downstream decisions.
@@ -380,6 +388,12 @@ These sources support specific portions of the dossier. They are not an exhausti
 18. OECD, PISA 2022 Japan country note: https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/japan_f7d7daad-en.html
 19. UNESCO, Global Education Monitoring report on technology in education: https://www.unesco.org/gem-report/en/technology
 20. UNESCO, *Guidance for Generative AI in Education and Research*: https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
+21. Arusha & Biswas (2020), Bangladesh tertiary youth examination-stress pilot: https://doi.org/10.1016/j.childyouth.2020.105254
+22. Cross-sectional study of stress among Bangladesh university-admission-seeking students: https://pubmed.ncbi.nlm.nih.gov/37181689/
+23. Saha et al., disability-related school attendance in Bangladesh using MICS 2019: https://pmc.ncbi.nlm.nih.gov/articles/PMC11501013/
+24. Siddik (2025), inclusive education challenges reported by Bangladesh primary teachers: https://doi.org/10.32204/jids.33.3_61
+25. Zaman & Raqib (2023), disability-inclusive education in ten secondary schools: https://doi.org/10.3329/twjer.v48i1.67545
+26. Bangladesh Parliamentary Budget Helpdesk, education budget briefing (FY2024–25): https://www.parliament.gov.bd/uploads/pages/budget-helpdesk-2024_015940_%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE.pdf
 
 # Research integrity status
 
