@@ -20,7 +20,9 @@ Step 1 — Research Question, Objectives & Scope — **Approved (2026-10-09)**.
 
 Steps 1–4 are approved. Step 4 is the working evidence standard; each future research step must apply it and document the relevant search, appraisal, counterevidence, and decisions.
 
-Current method application (draft): [Credential competition and examination pressure in Bangladesh](research/phase-01/step-04/application-01-credential-pressure/main.md). This is a bounded pilot before Step 5, not a change to roadmap numbering or an approved substantive conclusion.
+Current method application (draft): [Credential competition and examination pressure in Bangladesh](research/phase-01/step-04/application-01-credential-pressure/main.md). This is a bounded pilot and remains unapproved.
+
+Current roadmap step: [Step 5 — How Humans Learn](research/phase-01/step-05/main.md). The initial draft is in progress and not approved; its Bangla-language and Bangladesh-specific evidence searches remain incomplete.
 
 The final presentation and website structure will be decided only after the research has been substantially developed.
 
