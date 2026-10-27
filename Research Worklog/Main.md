@@ -215,3 +215,6 @@
 
 | RW-199 | 27-10-2026, 15:16:03 UTC | README.md | Link bulk branch's consolidated research draft, evidence matrix, search log, and worklog. |
 | RW-200 | 27-10-2026, 15:16:03 UTC | research/00-research-roadmap.md | Record bulk-review workflow and link consolidated draft artifacts. |
+
+| RW-201 | 27-10-2026, 15:23:57 UTC | sources/phase-01/bulk-work/SRC-047.md | Correct the Parliament budget briefing URL after checking the source path. |
+| RW-202 | 27-10-2026, 15:23:57 UTC | research/bulk-work/complete-research-draft.md | Correct the Parliament budget briefing URL in the selected-source list. |
