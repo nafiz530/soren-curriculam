@@ -50,3 +50,13 @@ Research records are separated by function:
 - `research/phase-NN/step-NN/` — step manuscripts, plans, source maps, and review logs.
 
 Step 3's unresolved questions are preserved as active obligations in the central roadmap.
+
+
+## Whole-project bulk review
+
+- [Whole-project review pack](research/bulk-work/whole-project-review-pack.md) — integrated evaluation, proposed developmental stages, assessment architecture, implementation, evaluation and 40-step coverage.
+- [Consolidated 40-step dossier](research/bulk-work/complete-research-draft.md)
+- [Evidence-to-claim matrix](evidence/bulk-work/claims-matrix.md)
+- [Second-pass search log](data/searches/2026-10-27/bulk-research-second-pass.md)
+
+These are drafts for one whole-project review, not final or publication-ready.

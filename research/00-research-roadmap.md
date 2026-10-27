@@ -16,6 +16,10 @@ This is the question the research will investigate, not a conclusion assumed in 
 
 ---
 
+## Bulk research status
+
+The [whole-project review pack](bulk-work/whole-project-review-pack.md) connects the critical evaluation to a proposed developmental system, assessment architecture, implementation and evaluation model. The author requested a whole-project review rather than review gates after every step. The bulk branch remains separate from `main`; this draft is not approved or publication-ready.
+
 ## How This Roadmap Will Be Used
 
 This roadmap is the research architecture. It is broad enough to support a substantial project, but it is **not frozen**. A step may be split, merged, reordered, expanded, or removed when evidence and research needs justify doing so.

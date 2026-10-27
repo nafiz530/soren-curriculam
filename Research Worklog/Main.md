@@ -218,3 +218,16 @@
 
 | RW-201 | 27-10-2026, 15:23:57 UTC | sources/phase-01/bulk-work/SRC-047.md | Correct the Parliament budget briefing URL after checking the source path. |
 | RW-202 | 27-10-2026, 15:23:57 UTC | research/bulk-work/complete-research-draft.md | Correct the Parliament budget briefing URL in the selected-source list. |
+
+| RW-203 | 27-10-2026, 15:30:00 UTC | research/bulk-work/whole-project-review-pack.md | Add whole-project synthesis, developmental design, assessment model, implementation, evaluation and stress tests. |
+| RW-204 | 27-10-2026, 15:30:00 UTC | data/searches/2026-10-27/bulk-research-second-pass.md | Record second-pass discovery and coverage limits. |
+| RW-205 | 27-10-2026, 15:30:00 UTC | sources/phase-01/bulk-work/SRC-056.md | Record primary National Student Assessment 2022 report. |
+| RW-206 | 27-10-2026, 15:30:00 UTC | sources/phase-01/bulk-work/SRC-057.md | Record World Bank Learning Poverty Brief 2024. |
+| RW-207 | 27-10-2026, 15:30:00 UTC | sources/phase-03/bulk-work/SRC-058.md | Record Singapore assessment reform policy source. |
+| RW-208 | 27-10-2026, 15:30:00 UTC | sources/phase-04/bulk-work/SRC-059.md | Record Finland curriculum framework source. |
+| RW-209 | 27-10-2026, 15:30:00 UTC | sources/phase-04/bulk-work/SRC-060.md | Record Estonia PISA 2022 country note. |
+| RW-210 | 27-10-2026, 15:30:00 UTC | sources/source-register.md | Register SRC-056–060. |
+| RW-211 | 27-10-2026, 15:30:00 UTC | evidence/bulk-work/claims-matrix.md | Extend matrix with learning assessment, formative assessment and international comparison claims. |
+| RW-212 | 27-10-2026, 15:30:00 UTC | research/bulk-work/complete-research-draft.md | Link the whole-project review pack. |
+| RW-213 | 27-10-2026, 15:30:00 UTC | README.md | Link the whole-project review pack for one-time review. |
+| RW-214 | 27-10-2026, 15:30:00 UTC | research/00-research-roadmap.md | Link the whole-project review pack and record the full-review workflow. |

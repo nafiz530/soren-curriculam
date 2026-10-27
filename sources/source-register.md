@@ -101,3 +101,9 @@ The repository file is an .xls workbook, not .xlsx. Preserve the actual format u
 | SRC-053 | Filges et al., “Small Class Sizes for Improving Student Achievement” | Campbell systematic review | 2018 | Identified; appraisal pending | Class-size reduction and achievement evidence |
 | SRC-054 | Miao & Holmes, UNESCO *Guidance for Generative AI in Education and Research* | International policy guidance | 2023 | Identified; update appraisal pending | Human-centred, age-appropriate and privacy-conscious AI in education |
 | SRC-055 | UNESCO Global Education Monitoring Report, *Technology in Education* | Global monitoring report | 2023 | Identified; appraisal pending | Appropriate use, equity and evidence for educational technology |
+
+| SRC-056 | Directorate of Primary Education, *National Student Assessment 2022 — Main Report* | National assessment report | 2022 | Primary source located; table-level extraction pending | Bangladesh primary-grade learning assessment |
+| SRC-057 | World Bank, *Bangladesh — Learning Poverty Brief 2024* | Indicator brief | 2024 | Identified; underlying data verification pending | Foundational reading indicator and method |
+| SRC-058 | Singapore Ministry of Education, assessment and curriculum changes | Official policy summary | Updated 2026 | Policy verified; outcome evaluation pending | Assessment-load reduction and pathway flexibility |
+| SRC-059 | Finnish National Agency for Education, national core curriculum | Official curriculum framework | Current framework page | Policy verified; outcome evaluation pending | Transversal competences embedded across subjects |
+| SRC-060 | OECD, PISA 2022 Country Note: Estonia | International assessment report | 2023 | Identified; context analysis pending | Performance, proficiency and socioeconomic gaps in Estonia |

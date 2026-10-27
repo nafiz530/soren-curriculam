@@ -6,6 +6,10 @@
 **Working branch:** `bulk-research-draft`  
 **Purpose:** Consolidate research across the roadmap so the author can review the whole body of work together. This is not the publishable final manuscript. Later, the research will be reorganized, gaps closed, and the final work assembled after the author's whole-project review.
 
+## Whole-project review pack
+
+The expanded [whole-project review pack](whole-project-review-pack.md) covers the critical evaluation, developmental architecture, assessment model, teacher and equity conditions, implementation, evaluation dashboard, stress tests, all 40 step summaries and remaining evidence priorities. It is the companion document for the author's one-time review.
+
 ## How to read this dossier
 
 This is a structured, evidence-qualified synthesis, not a claim that every question has already been answered exhaustively. “Preliminary finding” means the evidence located so far supports a working interpretation; it does not mean the approved Step 4 threshold for “established evidence” has been met. Search coverage remains uneven, especially for Bangla-language research, local primary records, longitudinal evidence, and direct comparisons within Bangladesh. Those gaps are recorded rather than concealed.
