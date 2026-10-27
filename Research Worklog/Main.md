@@ -212,3 +212,6 @@
 
 | RW-197 | 27-10-2026, 15:16:03 UTC | evidence/bulk-work/claims-matrix.md | Create a 28-claim cross-roadmap evidence matrix with source links, provisional status, and verification queue. |
 | RW-198 | 27-10-2026, 15:16:03 UTC | research/bulk-work/complete-research-draft.md | Link consolidated draft to the claim-level traceability matrix. |
+
+| RW-199 | 27-10-2026, 15:16:03 UTC | README.md | Link bulk branch's consolidated research draft, evidence matrix, search log, and worklog. |
+| RW-200 | 27-10-2026, 15:16:03 UTC | research/00-research-roadmap.md | Record bulk-review workflow and link consolidated draft artifacts. |

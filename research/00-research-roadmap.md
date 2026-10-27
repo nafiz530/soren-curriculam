@@ -194,6 +194,10 @@ Develop implementation stages, resource considerations, measurable outcomes, eva
 
 ---
 
+## Bulk-work status
+
+The author has requested a bulk research pass across all roadmap steps before any step-by-step review. The working branch `bulk-research-draft` contains a [consolidated preliminary synthesis](bulk-work/complete-research-draft.md), a [claim matrix](../../evidence/bulk-work/claims-matrix.md), a [discovery log](../../data/searches/2026-10-27/bulk-research-discovery.md), and source records SRC-043–055. This work is not merged into `main`, not approved, and not publication-ready. The initial synthesis is a map of the evidence and unresolved questions, not a substitute for full step-specific appraisal and source verification.
+
 # Research Completion Standard
 
 The project should not be considered complete merely because all 40 steps have documents.
