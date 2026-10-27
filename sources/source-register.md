@@ -86,3 +86,9 @@ The repository file is an .xls workbook, not .xlsx. Preserve the actual format u
 - One source ID should correspond to one identifiable source artifact unless the provider itself publishes a series as separate files.
 - If a provider publishes a source only as a webpage and no official downloadable document exists, do not create a PDF by printing the webpage. Record it as a web source instead.
 - A source being archived does not mean its claims have been fully reviewed or accepted.
+
+| SRC-043 | Nugroho et al., *Drivers of Learning in Differentiated Classrooms* | Bangladesh programme working paper | 2026 | Identified; appraisal pending | Differentiated teaching pilot in 24 secondary schools |
+| SRC-044 | Bhatt et al., *Micro Skills in Bangladesh Secondary Schools* | Bangladesh programme working paper | 2026 | Identified; appraisal pending | Life-skills pilot implementation and student-reported preparedness |
+| SRC-045 | Arusha & Biswas, “Prevalence of stress, anxiety and depression due to examination in Bangladeshi youths” | Peer-reviewed pilot survey | 2020 | Identified; appraisal pending | Examination-related stress in 210 tertiary-level youths in Dhaka |
+| SRC-046 | “Factors affecting school enrolment and attendance for children with disabilities in Bangladesh” | Peer-reviewed cross-sectional analysis | 2024 | Identified; appraisal pending | MICS 2019 evidence on school attendance among children with disabilities |
+| SRC-047 | Bangladesh Parliament Budget Helpdesk, education budget briefing | Parliamentary budget briefing | FY2024–25 | Identified; primary budget verification pending | Proposed education allocations; not actual expenditure |

@@ -190,3 +190,12 @@
 | RW-177 | 27-10-2026, 15:01:00 UTC | data/searches/2026-10-27/step-05-how-humans-learn.md | Record initial discovery queries and coverage gaps. |
 | RW-178 | 27-10-2026, 15:01:14 UTC | research/00-research-roadmap.md | Mark Step 5 in progress and link draft artifacts. |
 | RW-179 | 27-10-2026, 15:01:19 UTC | README.md | Point project overview to the unapproved Step 5 draft. |
+
+| RW-180 | 27-10-2026, 15:16:03 UTC | research/bulk-work/complete-research-draft.md | Create a consolidated preliminary synthesis spanning the 40-step roadmap for whole-project review. |
+| RW-181 | 27-10-2026, 15:16:03 UTC | data/searches/2026-10-27/bulk-research-discovery.md | Record English and first-pass Bangla discovery searches, source triage, and coverage limits. |
+| RW-182 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-043.md | Record Bangladesh differentiated-classroom pilot and limitations. |
+| RW-183 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-044.md | Record Bangladesh secondary-school life-skills pilot and limitations. |
+| RW-184 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-045.md | Record Bangladesh examination-stress pilot and sampling limitations. |
+| RW-185 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-046.md | Record disability-related school-attendance analysis using MICS 2019. |
+| RW-186 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-047.md | Record parliamentary education budget briefing and verification needs. |
+| RW-187 | 27-10-2026, 15:16:03 UTC | sources/source-register.md | Register SRC-043–047 for bulk research. |
