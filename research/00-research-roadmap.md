@@ -64,8 +64,8 @@ These obligations should be attached to the later roadmap steps where they are d
  
 # Phase 2 — Understanding the Learner
 
-## 5. How Humans Learn
-Research learning, memory, retrieval, practice, attention, prior knowledge, feedback, cognitive load, and related mechanisms.
+## 5. How Humans Learn — IN PROGRESS (DRAFT)
+Research learning, memory, retrieval, practice, attention, prior knowledge, feedback, cognitive load, and related mechanisms. Initial manuscript and source map are drafted; Bangladesh-specific and Bangla-language searches and full appraisal remain outstanding. Not approved. See [Step 5 manuscript](phase-01/step-05/main.md), [plan](phase-01/step-05/step-plan.md), [source map](phase-01/step-05/source-map.md), [review log](phase-01/step-05/review-log.md), and [search log](../data/searches/2026-10-27/step-05-how-humans-learn.md).
 
 ## 6. Child & Adolescent Development
 Examine cognitive, physical, emotional, and social development across educational ages.
