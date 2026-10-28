@@ -190,3 +190,49 @@
 | RW-177 | 27-10-2026, 15:01:00 UTC | data/searches/2026-10-27/step-05-how-humans-learn.md | Record initial discovery queries and coverage gaps. |
 | RW-178 | 27-10-2026, 15:01:14 UTC | research/00-research-roadmap.md | Mark Step 5 in progress and link draft artifacts. |
 | RW-179 | 27-10-2026, 15:01:19 UTC | README.md | Point project overview to the unapproved Step 5 draft. |
+
+| RW-180 | 27-10-2026, 15:16:03 UTC | research/bulk-work/complete-research-draft.md | Create a consolidated preliminary synthesis spanning the 40-step roadmap for whole-project review. |
+| RW-181 | 27-10-2026, 15:16:03 UTC | data/searches/2026-10-27/bulk-research-discovery.md | Record English and first-pass Bangla discovery searches, source triage, and coverage limits. |
+| RW-182 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-043.md | Record Bangladesh differentiated-classroom pilot and limitations. |
+| RW-183 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-044.md | Record Bangladesh secondary-school life-skills pilot and limitations. |
+| RW-184 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-045.md | Record Bangladesh examination-stress pilot and sampling limitations. |
+| RW-185 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-046.md | Record disability-related school-attendance analysis using MICS 2019. |
+| RW-186 | 27-10-2026, 15:16:03 UTC | sources/phase-01/bulk-work/SRC-047.md | Record parliamentary education budget briefing and verification needs. |
+| RW-187 | 27-10-2026, 15:16:03 UTC | sources/source-register.md | Register SRC-043–047 for bulk research. |
+
+| RW-188 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-048.md | Record National Academies learning synthesis. |
+| RW-189 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-049.md | Record Dunlosky learning-technique review. |
+| RW-190 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-050.md | Record spacing/retrieval review. |
+| RW-191 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-051.md | Record active-learning meta-analysis and population limits. |
+| RW-192 | 27-10-2026, 15:16:03 UTC | sources/phase-02/bulk-work/SRC-052.md | Record 2025 classroom distributed-practice meta-analysis and heterogeneity. |
+| RW-193 | 27-10-2026, 15:16:03 UTC | sources/phase-07/bulk-work/SRC-053.md | Record class-size systematic review. |
+| RW-194 | 27-10-2026, 15:16:03 UTC | sources/phase-09/bulk-work/SRC-054.md | Record UNESCO generative-AI education guidance. |
+| RW-195 | 27-10-2026, 15:16:03 UTC | sources/phase-09/bulk-work/SRC-055.md | Record UNESCO technology-in-education report. |
+| RW-196 | 27-10-2026, 15:16:03 UTC | sources/source-register.md | Register SRC-048–055 for bulk research. |
+
+| RW-197 | 27-10-2026, 15:16:03 UTC | evidence/bulk-work/claims-matrix.md | Create a 28-claim cross-roadmap evidence matrix with source links, provisional status, and verification queue. |
+| RW-198 | 27-10-2026, 15:16:03 UTC | research/bulk-work/complete-research-draft.md | Link consolidated draft to the claim-level traceability matrix. |
+
+| RW-199 | 27-10-2026, 15:16:03 UTC | README.md | Link bulk branch's consolidated research draft, evidence matrix, search log, and worklog. |
+| RW-200 | 27-10-2026, 15:16:03 UTC | research/00-research-roadmap.md | Record bulk-review workflow and link consolidated draft artifacts. |
+
+| RW-201 | 27-10-2026, 15:23:57 UTC | sources/phase-01/bulk-work/SRC-047.md | Correct the Parliament budget briefing URL after checking the source path. |
+| RW-202 | 27-10-2026, 15:23:57 UTC | research/bulk-work/complete-research-draft.md | Correct the Parliament budget briefing URL in the selected-source list. |
+
+| RW-203 | 27-10-2026, 15:30:00 UTC | research/bulk-work/whole-project-review-pack.md | Add whole-project synthesis, developmental design, assessment model, implementation, evaluation and stress tests. |
+| RW-204 | 27-10-2026, 15:30:00 UTC | data/searches/2026-10-27/bulk-research-second-pass.md | Record second-pass discovery and coverage limits. |
+| RW-205 | 27-10-2026, 15:30:00 UTC | sources/phase-01/bulk-work/SRC-056.md | Record primary National Student Assessment 2022 report. |
+| RW-206 | 27-10-2026, 15:30:00 UTC | sources/phase-01/bulk-work/SRC-057.md | Record World Bank Learning Poverty Brief 2024. |
+| RW-207 | 27-10-2026, 15:30:00 UTC | sources/phase-03/bulk-work/SRC-058.md | Record Singapore assessment reform policy source. |
+| RW-208 | 27-10-2026, 15:30:00 UTC | sources/phase-04/bulk-work/SRC-059.md | Record Finland curriculum framework source. |
+| RW-209 | 27-10-2026, 15:30:00 UTC | sources/phase-04/bulk-work/SRC-060.md | Record Estonia PISA 2022 country note. |
+| RW-210 | 27-10-2026, 15:30:00 UTC | sources/source-register.md | Register SRC-056–060. |
+| RW-211 | 27-10-2026, 15:30:00 UTC | evidence/bulk-work/claims-matrix.md | Extend matrix with learning assessment, formative assessment and international comparison claims. |
+| RW-212 | 27-10-2026, 15:30:00 UTC | research/bulk-work/complete-research-draft.md | Link the whole-project review pack. |
+| RW-213 | 27-10-2026, 15:30:00 UTC | README.md | Link the whole-project review pack for one-time review. |
+| RW-214 | 27-10-2026, 15:30:00 UTC | research/00-research-roadmap.md | Link the whole-project review pack and record the full-review workflow. |
+
+| RW-215 | 27-10-2026, 15:40:00 UTC | research/bulk-work/step-by-step-synthesis-01-40.md | Complete a first-pass synthesis for all 40 roadmap steps with design implications and evidence boundaries. |
+| RW-216 | 27-10-2026, 15:40:00 UTC | research/bulk-work/complete-research-draft.md | Link the 40-step synthesis supplement. |
+| RW-217 | 27-10-2026, 15:40:00 UTC | README.md | Link the 40-step synthesis supplement. |
+| RW-218 | 27-10-2026, 15:40:00 UTC | research/00-research-roadmap.md | Link the 40-step synthesis supplement for whole-project review. |

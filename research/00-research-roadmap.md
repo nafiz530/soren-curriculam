@@ -16,6 +16,12 @@ This is the question the research will investigate, not a conclusion assumed in 
 
 ---
 
+## Bulk research status
+
+The [step-by-step synthesis supplement](bulk-work/step-by-step-synthesis-01-40.md) provides a first-pass synthesis for every one of the 40 steps, alongside the [whole-project review pack](bulk-work/whole-project-review-pack.md).
+
+The [whole-project review pack](bulk-work/whole-project-review-pack.md) connects the critical evaluation to a proposed developmental system, assessment architecture, implementation and evaluation model. The author requested a whole-project review rather than review gates after every step. The bulk branch remains separate from `main`; this draft is not approved or publication-ready.
+
 ## How This Roadmap Will Be Used
 
 This roadmap is the research architecture. It is broad enough to support a substantial project, but it is **not frozen**. A step may be split, merged, reordered, expanded, or removed when evidence and research needs justify doing so.
@@ -193,6 +199,10 @@ Convert the accumulated evidence into an explicit system architecture covering e
 Develop implementation stages, resource considerations, measurable outcomes, evaluation methods, risks, limitations, failure scenarios, and adversarial tests. Revise the proposal based on those findings and produce the final framework.
 
 ---
+
+## Bulk-work status
+
+The author has requested a bulk research pass across all roadmap steps before any step-by-step review. The working branch `bulk-research-draft` contains a [consolidated preliminary synthesis](bulk-work/complete-research-draft.md), a [claim matrix](../../evidence/bulk-work/claims-matrix.md), a [discovery log](../../data/searches/2026-10-27/bulk-research-discovery.md), and source records SRC-043–055. This work is not merged into `main`, not approved, and not publication-ready. The initial synthesis is a map of the evidence and unresolved questions, not a substitute for full step-specific appraisal and source verification.
 
 # Research Completion Standard
 
