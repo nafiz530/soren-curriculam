@@ -56,6 +56,20 @@ This is not a complete database search. Exact result counts, exportable screenin
 | Q-EN-04 | English | `Bangladesh TVET graduate tracer study employment outcomes Bangladesh Technical Education Board report` | 2026-10-28 | Web search; ranked results | Relevant leads: Directorate of Technical Education, *TVET Graduate Tracer Study Report 2020*; BTEB research-report index; 2025 study “Is TVET more likely to lead to employment than general education? Evidence from Bangladesh.” Retain; assess sample, identification assumptions and outcome definitions before synthesizing. |
 | Q-BN-04 | Bangla | `বাংলাদেশ কারিগরি শিক্ষা TVET স্নাতক কর্মসংস্থান ট্রেসার স্টাডি BANBEIS BTEB প্রতিবেদন` | 2026-10-28 | Web search; ranked results | BTEB's official research-report page lists enrolment analysis and several tracer studies; retain as a primary-source discovery path. Specific report PDFs and tables still need extraction. |
 
+### Researcher-supplied corrections and additional search outcomes
+
+The researcher confirms that **eight English- and Bangla-language searches were logged** in this pass. The following findings were supplied after re-checking source materials and should be treated as researcher-reported until the cited original tables/studies are extracted into the repository:
+
+- **World Bank SRC-006:** the PDF figures were rechecked: learning poverty 51% (boys 54%, girls 49%); learning deprivation 50% (boys 53%, girls 48%); schooling deprivation 2.4%. The brief says the 51% estimate reflects data from during COVID school closures.
+- **World Bank SRC-074:** this is the **2021 update** of the Learning Poverty Global Database, with data from 2001–2019—not a 2024 release. The Bangladesh rows are reported as 57.2% in 2015 and 58.1% in 2017. They must not be presented as a trend against SRC-006's 51% because the assessment and threshold differ. The researcher exported South Asia rows to CSV, but the exact CSV path has not yet been recorded in this log.
+- **DPE SRC-056:** the official report PDF download was blocked. A page-fetch reading produced unverified headline figures: grade-level Bangla about 51% in grade 3 and 50% in grade 5; mathematics 39% in grade 3 and 30% in grade 5. The grade-5 maths figure is reported as down from 32% in 2017. Do not treat these as verified primary-table extractions until the report tables and definitions can be checked.
+- **Tutoring:** Education Watch 2023 is reported to say more than 75% of primary and secondary students use tutors or coaching; Mahmud (SRC-037) reports English tutoring of 84.7% urban and 60.7% rural in 2014–15; a small Wave Foundation study reports about 90%. These have different populations, subjects, periods and designs. Extract exact report tables and identify the Wave Foundation study before synthesis.
+- **Exam items / TVET:** only one Bloom-coded SSC exam-item study was identified in the searches. No TVET outcome numbers were retrieved.
+- **Coverage limitation:** BanglaJOL, CAMPE, BANBEIS and NCTB were **not searched through their own search interfaces**. Locating their websites or documents is not equivalent to searching their internal indexes. Record later interface-specific searches separately with exact query, date, results and screening decisions.
+- **“452” study correction:** Rabby et al. (2023), a convenience web survey of 452 HSC graduates seeking undergraduate admission, is SRC-067 and is separate from the 210-person Dhaka study SRC-045. The earlier suggestion that “452” belonged to SRC-037 is withdrawn; it was a substring of a DOI, not a sample size from Mahmud's study.
+
+These corrections do not convert the review into a systematic review. The current log remains a discovery-search record, with incomplete database-interface coverage and source-level extraction still outstanding.
+
 ### Screening decisions from this search pass
 
 - **Retain for full-text appraisal:** Education Watch 2022/2023 reports; Sultana & Rahman (2018); Rabby et al. (2023); DTE TVET Graduate Tracer Study 2020; 2025 Bangladesh TVET labour-market paper; World Bank Education Sector Public Expenditure Review; BRAC learning-loss report.
