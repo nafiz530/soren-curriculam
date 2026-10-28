@@ -76,3 +76,21 @@ These corrections do not convert the review into a systematic review. The curren
 - **Use only as discovery/context unless the underlying source is checked:** newspaper articles and press summaries.
 - **Do not infer national prevalence from:** English-only tutoring studies, local/upazila studies, school-closure samples, online admission-seeker surveys, or convenience samples.
 - **Still missing:** a current nationally representative tutoring prevalence/spending estimate; a current, multi-subject, reproducible SSC/HSC question-paper content analysis; robust secondary-school exam-pressure data; complete Bangla-language database coverage; query-specific hit counts and screening-flow counts.
+
+
+### Verified primary-source extraction — 28 October 2026
+
+The previously provisional NSA 2022 headline values have now been checked directly against the official DPE report hosted on a government object-storage domain and the DPE publication listing. The report is dated June 2023, despite the portal upload path containing `2024`. In the executive summary (printed report page xix / PDF page 19), it defines grade-level performance as the **Proficient** and **Advanced** levels. It reports:
+
+| Subject | Grade | 2017 | 2022 | Direction |
+|---|---:|---:|---:|---|
+| Bangla | 3 | 47% | 51% | +4 percentage points |
+| Bangla | 5 | 44% | 50% | +6 percentage points |
+| Mathematics | 3 | 34% | 39% | +5 percentage points |
+| Mathematics | 5 | 32% | 30% | −2 percentage points |
+
+The values are confirmed in Table 25 (Bangla, printed page 34) and Table 45 (mathematics, printed page 58). The report says the 2022 round added pre-reading and early-numeracy items and included geographical type as an additional stratification variable; therefore, describe the 2017–2022 comparisons with the report's methodological caveats rather than as perfectly invariant measurements. The full report is available at https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dpe/2024/12/468747c2128a447583c707fb5ddf274b.pdf and the official DPE listing is https://dpe.gov.bd/site/publications/8fedb608-0b49-4935-bf2d-9e15a3b66525/NSA-2022-Final-Report.
+
+A separate Wave Foundation study was identified through contemporaneous reporting as covering 804 people and 23 government primary schools in four disaster-prone upazilas, with data collected in October (the report coverage says the reported coaching figure was nearly 90%). This is a geographically bounded study, not a national prevalence estimate. The original Wave Foundation report and its exact sampling/denominator tables have not yet been archived or independently checked; keep it as a lead, not a load-bearing national statistic. Secondary report: https://www.tbsnews.net/bangladesh/education/90-students-four-disaster-prone-upazilas-take-coaching-classes-research-763646.
+
+**Remaining explicit search gaps:** the South Asia CSV path is still not recorded; BanglaJOL, CAMPE, BANBEIS and NCTB internal search interfaces still need query-level searches; full extraction/appraisal remains pending for the Education Watch reports, secondary-school exam-item study, TVET tracer report and public-expenditure review. This remains a structured narrative evidence review, not a systematic review.
