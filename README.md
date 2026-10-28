@@ -61,3 +61,10 @@ Step 3's unresolved questions are preserved as active obligations in the central
 
 These are drafts for one whole-project review, not final or publication-ready.
 - [Step-by-step synthesis for all 40 steps](research/bulk-work/step-by-step-synthesis-01-40.md) — current synthesis, design implications and evidence boundaries for every step.
+
+
+## Mega research paper — preparation status
+
+The next phase is preparation for a reader-facing full research paper under the working title *Exam-Oriented or Future-Ready? An Evidence Review of Learning Outcomes, Assessment Incentives and Reform Design in Bangladesh's School System.* The planned manuscript is a **structured narrative evidence review with realist-informed reasoning**, not a systematic review. It must use ordinary author–date citations and a complete reference list; repository source IDs (for example, SRC-037) are internal bookkeeping only and must never appear in the reader-facing manuscript. See [Manuscript Preparation Protocol](research/manuscript-preparation/README.md).
+
+The main evidence gate is still open: the official NSA 2022 tables have now been verified, but primary-source extraction, source appraisals, Bangla-language database searches, current tutoring prevalence, and the planned original SSC/HSC item-content analysis remain incomplete. Do not label the future manuscript final or publication-ready until the gate is closed.
