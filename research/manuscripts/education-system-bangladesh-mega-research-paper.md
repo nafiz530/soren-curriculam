@@ -188,6 +188,20 @@ The Education Watch 2023 report subsequently reported private tutoring for 70% o
 
 *Sources: CAMPE (2023, 2024) and contemporaneous reporting of the studies. These figures come from different survey rounds and populations. They are not one continuous trend and should not be averaged.*
 
+**Visual comparison of selected reported rates**
+
+```text
+Private tutoring — primary students, 2023     ██████████████       70%
+Private tutoring — secondary students, 2023   ███████████████      76.5%
+
+Guidebook use — primary students, 2022         ████████████████     79%
+Guidebook use — secondary students, 2022       █████████████████    82.5%
+Guidebook use — primary students, 2023         ██████████████████   92%
+Guidebook use — secondary students, 2023       ███████████████████  93%
+```
+
+*Bars are visual aids, not a claim that the survey rounds form a perfectly comparable time series. Interpret each percentage using the population and year specified above.*
+
 The pattern is consistent with extensive reliance on support outside ordinary classroom instruction. It does not prove that all tutoring is harmful, that every tutor teaches only for examinations, or that private tutoring alone explains weak learning outcomes. Tutoring can provide additional explanation, practice or individual attention that a crowded classroom may not be able to offer. Guidebooks can also contain useful practice. The policy question is why these products become necessary or nearly universal, who benefits, what families must pay, and whether students without the money receive an adequate alternative.
 
 The distributional consequences are especially important. If a student can access extra instruction, a quiet study space, a personal device and commercial materials while another student cannot, the same public examination may reflect both learning and unequal access to preparation. The system should not assume that a common paper creates a level playing field when preparation conditions differ sharply.
