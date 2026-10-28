@@ -2,12 +2,14 @@
 
 **Purpose:** Master index of research sources. This is a living bibliography, not a list of conclusions.
 
-## Status legend
+## Access and appraisal legend
 
-- **Collected** — source artifact is archived in this repository.
-- **Referenced** — canonical source identified and used/reviewed, but a local archival copy is not yet stored.
-- **Pending** — source identified as useful but not yet reviewed.
-- **Rejected** — considered and rejected, with reason recorded.
+**Access** records whether the source artifact is locally archived or merely identified:
+- **collected** — a source artifact is archived in the repository.
+- **referenced** — a canonical source is identified and used, but no local copy is recorded.
+- **pending** — access or source identity remains unresolved.
+
+**Appraisal** records the current review state separately. “Not started,” “pending,” and “identity to verify” are not quality judgments. A collected source is not automatically appraised or accepted.
 
 | ID | Source | Type | Year | Access | Appraisal | URL / DOI | Access date | Repository path | Primary relevance |
 |---|---|---|---:|---|---|---|---|---|---|
@@ -66,6 +68,9 @@
 | SRC-054 | Miao & Holmes, UNESCO *Guidance for Generative AI in Education and Research* | International policy guidance | 2023 | referenced | pending | Not recorded; verify before publication | Not recorded | Not archived / path not recorded | Human-centred, age-appropriate and privacy-conscious AI in education |
 | SRC-055 | UNESCO Global Education Monitoring Report, *Technology in Education* | Global monitoring report | 2023 | referenced | pending | Not recorded; verify before publication | Not recorded | Not archived / path not recorded | Appropriate use, equity and evidence for educational technology |
 | SRC-056 | Directorate of Primary Education, *National Student Assessment 2022 — Main Report* | National assessment report | 2022 | pending | not appraised; data extraction pending | Not recorded; verify before publication | Not recorded | Not archived / path not recorded | Bangladesh primary-grade learning assessment |
+| SRC-058 | Singapore Ministry of Education, assessment and curriculum changes | Official policy summary | Updated 2026 | referenced | policy record checked; outcome evaluation pending | https://educationconversations.moe.gov.sg/our-efforts | 2026-10-28 (verify) | Not archived / path not recorded | Assessment-load reduction and pathway flexibility; policy existence does not establish impact |
+| SRC-059 | Finnish National Agency for Education, national core curriculum | Official curriculum framework | Current framework page | referenced | policy record checked; outcome evaluation pending | https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-primary-and-lower-secondary-basic-education | 2026-10-28 (verify) | Not archived / path not recorded | Transversal competences embedded across subjects; official design, not causal outcome evidence |
+| SRC-060 | OECD, *PISA 2022 Country Note: Estonia* | International assessment report | 2023 | referenced | context analysis pending | https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/estonia_dafed886-en.html | 2026-10-28 (verify) | Not archived / path not recorded | Performance, proficiency and socioeconomic gaps in Estonia; not a causal policy evaluation |
 | SRC-061 | Alam & Zhu, “Shadow Education and Its Academic Effects in Bangladesh: A Vygotskian Perspective” | Peer-reviewed qualitative study | 2022 | pending | pending | https://doi.org/10.3389/fpsyg.2022.922743 | 2026-10-28 (verify against search log) | Not archived / path not recorded | 18 interviews involving tutored students, parents and tutors at two higher-secondary institutions in Sylhet; not nationally representative |
 | SRC-062 | Yao et al., formative assessment meta-analysis (118 studies; 258 effect sizes) | Meta-analysis | 2024 | pending | pending | https://doi.org/10.1080/13803611.2024.2363831 | 2026-10-28 (verify against search log) | Not archived / path not recorded | Average effect reported in the study; verify methods, heterogeneity and full bibliographic details before quantitative use |
 | SRC-063 | Xu et al., homework meta-analysis (29 studies; 35,702 students) | Meta-analysis | 2026 | pending | pending | Not recorded; verify before publication | Not recorded | Not archived / path not recorded | Homework quality/support claim; associational interpretation only until methods are appraised |
