@@ -122,7 +122,7 @@ The report defines “grade-level competency” as students in the **Proficient*
 
 **Visual summary (percentage attaining the report's grade-level standard)**
 
-\`\`\`text
+```text
 Bangla Grade 3       2017 ███████████████████████ 47%
                      2022 ██████████████████████████ 51%
 
@@ -134,7 +134,7 @@ Mathematics Grade 3  2017 █████████████████ 34
 
 Mathematics Grade 5  2017 ████████████████ 32%
                      2022 ███████████████ 30%
-\`\`\`
+```
 
 *Source: DPE (2023), Tables 25 and 45. Bars are proportional illustrations; the percentages in the table are authoritative.*
 
@@ -542,7 +542,7 @@ Australian Council for Educational Research. (2023). *Report shows reading and m
 
 Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. https://doi.org/10.1080/0969595980050102
 
-Campaign for Popular Education. (2023). *Post-pandemic education: Recovery and renewal of school education* (Education Watch 2022). CAMPE. https://www.campebd.org/ (Report details and source file should be checked against the archived primary report before journal submission.)
+Campaign for Popular Education. (2023). *Education Watch 2022: Post-pandemic education—Recovery and renewal of school education*. CAMPE. https://www.campebd.org/Files/14082023060039pmEducation_Watch_Report_2022_Full_English.pdf
 
 Campaign for Popular Education. (2024). *Education Watch Report 2023*. CAMPE. https://www.campebd.org/Files/30032024043348pmEducation_Watch_Report_2023_Full_English_for_Web.pdf
 
